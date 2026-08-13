@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-06-29T16:04:38Z",
+            "last_commit": "2026-08-13T14:50:21Z",
             "owner": "AU-COBRA",
             "repo": "ConCert",
             "stars": 128
@@ -484,20 +484,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bedrock Bit Vectors",
-          "description": "Library for reasoning on fixed precision machine words.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rocq Prover",
-            "last_commit": "2026-08-02T18:43:45Z",
-            "owner": "mit-plv",
-            "repo": "bbv",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Mczify",
           "description": "Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.",
           "children": [],
@@ -507,6 +493,20 @@
             "last_commit": "2026-07-29T13:20:18Z",
             "owner": "math-comp",
             "repo": "mczify",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock Bit Vectors",
+          "description": "Library for reasoning on fixed precision machine words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-08-02T18:43:45Z",
+            "owner": "mit-plv",
+            "repo": "bbv",
             "stars": 30
           }
         },
@@ -996,10 +996,10 @@
           "repo_info": {
             "archived": false,
             "language": "Sail",
-            "last_commit": "2026-08-12T13:47:55Z",
+            "last_commit": "2026-08-13T12:44:57Z",
             "owner": "rems-project",
             "repo": "sail",
-            "stars": 916
+            "stars": 917
           }
         },
         {
@@ -1353,7 +1353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-13T02:06:28Z",
+            "last_commit": "2026-08-13T08:33:46Z",
             "owner": "HoTT",
             "repo": "Coq-HoTT",
             "stars": 1403
@@ -1381,7 +1381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-13T03:57:02Z",
+            "last_commit": "2026-08-13T06:31:07Z",
             "owner": "jwiegley",
             "repo": "category-theory",
             "stars": 804
@@ -1524,7 +1524,7 @@
             "last_commit": "2026-06-22T06:51:42Z",
             "owner": "thery",
             "repo": "coqprime",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -1611,7 +1611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-11T08:58:40Z",
+            "last_commit": "2026-08-13T08:03:35Z",
             "owner": "mit-plv",
             "repo": "fiat-crypto",
             "stars": 839
@@ -1625,7 +1625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-07T16:42:53Z",
+            "last_commit": "2026-08-13T10:12:06Z",
             "owner": "jasmin-lang",
             "repo": "jasmin",
             "stars": 362
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:29.849Z",
+    "last_updated": "2026-08-13T15:11:49.517Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
