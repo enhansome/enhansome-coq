@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-12T03:41:51Z",
+            "last_commit": "2026-08-14T14:58:58Z",
             "owner": "rocq-prover",
             "repo": "vsrocq",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-12T03:41:51Z",
+            "last_commit": "2026-08-14T14:58:58Z",
             "owner": "rocq-prover",
             "repo": "vsrocq",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-06T13:41:21Z",
             "owner": "imdea-software",
             "repo": "fcsl-pcm",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -996,7 +996,7 @@
           "repo_info": {
             "archived": false,
             "language": "Sail",
-            "last_commit": "2026-08-13T12:44:57Z",
+            "last_commit": "2026-08-13T17:03:14Z",
             "owner": "rems-project",
             "repo": "sail",
             "stars": 917
@@ -1381,7 +1381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-13T06:31:07Z",
+            "last_commit": "2026-08-14T14:19:49Z",
             "owner": "jwiegley",
             "repo": "category-theory",
             "stars": 804
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-12T19:43:04Z",
+            "last_commit": "2026-08-14T14:06:41Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 247
@@ -1611,7 +1611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-13T08:03:35Z",
+            "last_commit": "2026-08-14T14:52:51Z",
             "owner": "mit-plv",
             "repo": "fiat-crypto",
             "stars": 839
@@ -1779,7 +1779,7 @@
             "last_commit": "2026-08-03T08:40:11Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5554
+            "stars": 5553
           }
         },
         {
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:11:49.517Z",
+    "last_updated": "2026-08-14T15:05:05.687Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
