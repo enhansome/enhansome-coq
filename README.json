@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T14:58:58Z",
+            "last_commit": "2026-08-15T12:01:55Z",
             "owner": "rocq-prover",
             "repo": "vsrocq",
-            "stars": 460
+            "stars": 459
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T14:58:58Z",
+            "last_commit": "2026-08-15T12:01:55Z",
             "owner": "rocq-prover",
             "repo": "vsrocq",
-            "stars": 460
+            "stars": 459
           }
         },
         {
@@ -1381,10 +1381,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-14T14:19:49Z",
+            "last_commit": "2026-08-15T14:20:55Z",
             "owner": "jwiegley",
             "repo": "category-theory",
-            "stars": 804
+            "stars": 805
           }
         },
         {
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-14T14:06:41Z",
+            "last_commit": "2026-08-14T19:34:15Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 247
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:05:05.687Z",
+    "last_updated": "2026-08-15T14:35:52.364Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
