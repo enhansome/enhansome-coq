@@ -465,7 +465,7 @@
             "last_commit": "2026-08-06T13:41:21Z",
             "owner": "imdea-software",
             "repo": "fcsl-pcm",
-            "stars": 36
+            "stars": 35
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2022-11-14T14:50:15Z",
             "owner": "rocq-community",
             "repo": "sudoku",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -1381,7 +1381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-15T14:20:55Z",
+            "last_commit": "2026-08-16T14:14:02Z",
             "owner": "jwiegley",
             "repo": "category-theory",
             "stars": 805
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-14T19:34:15Z",
+            "last_commit": "2026-08-16T14:11:23Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 247
@@ -1625,7 +1625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-13T10:12:06Z",
+            "last_commit": "2026-08-15T21:22:43Z",
             "owner": "jasmin-lang",
             "repo": "jasmin",
             "stars": 362
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:35:52.364Z",
+    "last_updated": "2026-08-16T14:35:34.815Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
