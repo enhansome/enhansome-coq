@@ -625,7 +625,7 @@
             "last_commit": "2026-07-30T13:01:41Z",
             "owner": "rocq-prover",
             "repo": "platform",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -996,7 +996,7 @@
           "repo_info": {
             "archived": false,
             "language": "Sail",
-            "last_commit": "2026-08-13T17:03:14Z",
+            "last_commit": "2026-08-17T12:30:18Z",
             "owner": "rems-project",
             "repo": "sail",
             "stars": 917
@@ -1381,10 +1381,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-16T14:14:02Z",
+            "last_commit": "2026-08-17T13:24:28Z",
             "owner": "jwiegley",
             "repo": "category-theory",
-            "stars": 805
+            "stars": 804
           }
         },
         {
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-16T14:11:23Z",
+            "last_commit": "2026-08-16T19:10:05Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 247
@@ -1611,7 +1611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-14T14:52:51Z",
+            "last_commit": "2026-08-17T13:08:01Z",
             "owner": "mit-plv",
             "repo": "fiat-crypto",
             "stars": 839
@@ -1625,7 +1625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-15T21:22:43Z",
+            "last_commit": "2026-08-17T08:37:12Z",
             "owner": "jasmin-lang",
             "repo": "jasmin",
             "stars": 362
@@ -1776,10 +1776,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-03T08:40:11Z",
+            "last_commit": "2026-08-16T14:41:10Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5553
+            "stars": 5549
           }
         },
         {
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:35:34.815Z",
+    "last_updated": "2026-08-17T14:40:20.042Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
