@@ -577,7 +577,7 @@
             "last_commit": "2026-07-21T07:43:56Z",
             "owner": "CertiGraph",
             "repo": "CertiGraph",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -636,7 +636,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-12T14:56:46Z",
+            "last_commit": "2026-08-18T13:45:23Z",
             "owner": "rocq-community",
             "repo": "coq-nix-toolbox",
             "stars": 56
@@ -996,10 +996,10 @@
           "repo_info": {
             "archived": false,
             "language": "Sail",
-            "last_commit": "2026-08-17T12:30:18Z",
+            "last_commit": "2026-08-18T14:47:57Z",
             "owner": "rems-project",
             "repo": "sail",
-            "stars": 917
+            "stars": 919
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-06-02T23:40:09Z",
             "owner": "cpitclaudel",
             "repo": "alectryon",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -1381,10 +1381,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-17T13:24:28Z",
+            "last_commit": "2026-08-18T13:55:48Z",
             "owner": "jwiegley",
             "repo": "category-theory",
-            "stars": 804
+            "stars": 805
           }
         },
         {
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-16T19:10:05Z",
+            "last_commit": "2026-08-18T11:26:24Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 247
@@ -1409,7 +1409,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-07-17T13:33:53Z",
+            "last_commit": "2026-08-18T14:24:14Z",
             "owner": "rocq-community",
             "repo": "fourcolor",
             "stars": 246
@@ -1625,7 +1625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-17T08:37:12Z",
+            "last_commit": "2026-08-18T14:42:40Z",
             "owner": "jasmin-lang",
             "repo": "jasmin",
             "stars": 362
@@ -1776,10 +1776,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-16T14:41:10Z",
+            "last_commit": "2026-08-18T14:44:42Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5549
+            "stars": 5550
           }
         },
         {
@@ -1790,7 +1790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-08-05T18:41:11Z",
+            "last_commit": "2026-08-18T14:21:51Z",
             "owner": "math-comp",
             "repo": "math-comp",
             "stars": 694
@@ -1903,7 +1903,7 @@
             "last_commit": "2021-04-14T16:54:22Z",
             "owner": "xavierleroy",
             "repo": "cdf-program-logics",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:40:20.042Z",
+    "last_updated": "2026-08-18T14:48:30.737Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
