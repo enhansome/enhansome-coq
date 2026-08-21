@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-27T13:15:07Z",
                 "owner": "uwplse",
                 "repo": "verdi",
-                "stars": 627
+                "stars": 625
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-19T11:02:33Z",
                 "owner": "mit-plv",
                 "repo": "fiat",
-                "stars": 160
+                "stars": 157
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-20T14:25:25Z",
                 "owner": "rocq-community",
                 "repo": "coqeal",
-                "stars": 75
+                "stars": 74
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-06-18T19:26:48Z",
                 "owner": "VeriNum",
                 "repo": "vcfloat",
-                "stars": 34
+                "stars": 32
               }
             }
           ],
@@ -246,7 +246,7 @@
                 "archived": false,
                 "id": 169723166,
                 "language": "OCaml",
-                "last_commit": "2026-08-19T19:27:37Z",
+                "last_commit": "2026-08-21T06:28:42Z",
                 "owner": "rocq-community",
                 "repo": "rocq-lsp",
                 "stars": 208
@@ -331,7 +331,7 @@
                 "last_commit": "2026-06-12T08:26:44Z",
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
-                "stars": 256
+                "stars": 255
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-04-28T12:48:39Z",
                 "owner": "rocq-community",
                 "repo": "coq-ext-lib",
-                "stars": 136
+                "stars": 135
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-06-08T16:06:27Z",
                 "owner": "tchajed",
                 "repo": "coq-record-update",
-                "stars": 49
+                "stars": 48
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-04-03T12:07:43Z",
                 "owner": "math-comp",
                 "repo": "algebra-tactics",
-                "stars": 39
+                "stars": 38
               }
             },
             {
@@ -508,25 +508,10 @@
                 "archived": false,
                 "id": 132653878,
                 "language": "Rocq Prover",
-                "last_commit": "2026-06-03T12:50:39Z",
+                "last_commit": "2026-08-20T17:41:18Z",
                 "owner": "Lysxia",
                 "repo": "rocq-simple-io",
                 "stars": 34
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Mczify",
-              "description": "Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 209997501,
-                "language": "Rocq Prover",
-                "last_commit": "2026-07-29T13:20:18Z",
-                "owner": "math-comp",
-                "repo": "mczify",
-                "stars": 31
               }
             },
             {
@@ -546,14 +531,29 @@
             },
             {
               "node_type": "item",
+              "title": "Mczify",
+              "description": "Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209997501,
+                "language": "Rocq Prover",
+                "last_commit": "2026-08-20T19:14:13Z",
+                "owner": "math-comp",
+                "repo": "mczify",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Hahn",
               "description": "Library for reasoning on lists and binary relations.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 64277893,
-                "language": "Coq",
-                "last_commit": "2024-06-25T12:12:50Z",
+                "language": "Rocq Prover",
+                "last_commit": "2026-08-20T16:52:14Z",
                 "owner": "vafeiadis",
                 "repo": "hahn",
                 "stars": 29
@@ -680,7 +680,7 @@
                 "archived": false,
                 "id": 338370962,
                 "language": "Nix",
-                "last_commit": "2026-08-20T13:50:21Z",
+                "last_commit": "2026-08-21T09:04:17Z",
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
                 "stars": 56
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-18T14:51:45Z",
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 549
+                "stars": 548
               }
             },
             {
@@ -762,7 +762,7 @@
                 "archived": false,
                 "id": 18420385,
                 "language": "Rocq Prover",
-                "last_commit": "2026-07-07T07:46:10Z",
+                "last_commit": "2026-08-20T17:41:31Z",
                 "owner": "QuickChick",
                 "repo": "QuickChick",
                 "stars": 292
@@ -780,7 +780,7 @@
                 "last_commit": "2026-08-08T20:34:26Z",
                 "owner": "lukaszcz",
                 "repo": "coqhammer",
-                "stars": 244
+                "stars": 243
               }
             },
             {
@@ -795,7 +795,7 @@
                 "last_commit": "2026-08-20T10:43:06Z",
                 "owner": "rocq-prover",
                 "repo": "equations",
-                "stars": 238
+                "stars": 236
               }
             },
             {
@@ -840,7 +840,7 @@
                 "last_commit": "2026-07-24T08:50:20Z",
                 "owner": "math-comp",
                 "repo": "hierarchy-builder",
-                "stars": 105
+                "stars": 104
               }
             },
             {
@@ -915,7 +915,7 @@
                 "last_commit": "2026-05-11T16:29:55Z",
                 "owner": "rocq-community",
                 "repo": "aac-tactics",
-                "stars": 37
+                "stars": 36
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2026-03-10T11:31:44Z",
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 420
+                "stars": 417
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-04-16T01:17:10Z",
                 "owner": "rocq-community",
                 "repo": "coq-dpdgraph",
-                "stars": 102
+                "stars": 100
               }
             },
             {
@@ -1444,7 +1444,7 @@
                 "archived": false,
                 "id": 1529601,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-19T16:13:46Z",
+                "last_commit": "2026-08-21T13:46:58Z",
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
                 "stars": 1403
@@ -1462,7 +1462,7 @@
                 "last_commit": "2026-08-07T17:08:33Z",
                 "owner": "UniMath",
                 "repo": "UniMath",
-                "stars": 1019
+                "stars": 1017
               }
             },
             {
@@ -1474,10 +1474,10 @@
                 "archived": false,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T14:27:38Z",
+                "last_commit": "2026-08-21T07:52:48Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
-                "stars": 806
+                "stars": 805
               }
             },
             {
@@ -1489,10 +1489,10 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T14:08:42Z",
+                "last_commit": "2026-08-20T19:28:39Z",
                 "owner": "math-comp",
                 "repo": "analysis",
-                "stars": 248
+                "stars": 247
               }
             },
             {
@@ -1597,22 +1597,7 @@
                 "last_commit": "2026-07-17T13:06:53Z",
                 "owner": "math-comp",
                 "repo": "finmap",
-                "stars": 51
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Graph Theory",
-              "description": "Formalized graph theory results.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 250061406,
-                "language": "Rocq Prover",
-                "last_commit": "2026-05-06T11:44:14Z",
-                "owner": "rocq-community",
-                "repo": "graph-theory",
-                "stars": 45
+                "stars": 50
               }
             },
             {
@@ -1627,6 +1612,21 @@
                 "last_commit": "2026-06-22T06:51:42Z",
                 "owner": "thery",
                 "repo": "coqprime",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graph Theory",
+              "description": "Formalized graph theory results.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250061406,
+                "language": "Rocq Prover",
+                "last_commit": "2026-05-06T11:44:14Z",
+                "owner": "rocq-community",
+                "repo": "graph-theory",
                 "stars": 44
               }
             },
@@ -1657,7 +1657,7 @@
                 "last_commit": "2026-07-21T13:55:22Z",
                 "owner": "rocq-community",
                 "repo": "gaia",
-                "stars": 31
+                "stars": 30
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "archived": false,
                 "id": 78072136,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-19T21:09:30Z",
+                "last_commit": "2026-08-21T14:32:04Z",
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 362
@@ -1754,7 +1754,7 @@
                 "last_commit": "2024-02-05T11:25:32Z",
                 "owner": "jscert",
                 "repo": "jscert",
-                "stars": 208
+                "stars": 207
               }
             },
             {
@@ -1784,7 +1784,7 @@
                 "last_commit": "2026-07-22T16:55:35Z",
                 "owner": "CertiRocq",
                 "repo": "certirocq",
-                "stars": 176
+                "stars": 175
               }
             },
             {
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 350921474,
                 "language": "Rocq Prover",
-                "last_commit": "2025-12-10T15:29:44Z",
+                "last_commit": "2026-08-21T14:31:45Z",
                 "owner": "pi8027",
                 "repo": "stablesort",
                 "stars": 25
@@ -1899,10 +1899,10 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-20T13:06:04Z",
+                "last_commit": "2026-08-21T11:26:38Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5549
+                "stars": 5550
               }
             },
             {
@@ -1914,7 +1914,7 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T10:55:44Z",
+                "last_commit": "2026-08-20T16:28:12Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
@@ -1984,7 +1984,7 @@
                 "last_commit": "2025-01-22T14:02:32Z",
                 "owner": "rocq-community",
                 "repo": "hydra-battles",
-                "stars": 83
+                "stars": 80
               }
             }
           ],
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:51:09.416Z",
+    "last_updated": "2026-08-21T14:50:13.165Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_id": 232886823,
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
