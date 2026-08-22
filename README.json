@@ -668,7 +668,7 @@
                 "last_commit": "2026-07-30T13:01:41Z",
                 "owner": "rocq-prover",
                 "repo": "platform",
-                "stars": 243
+                "stars": 244
               }
             },
             {
@@ -777,7 +777,7 @@
                 "archived": false,
                 "id": 119678694,
                 "language": "OCaml",
-                "last_commit": "2026-08-08T20:34:26Z",
+                "last_commit": "2026-08-21T20:29:44Z",
                 "owner": "lukaszcz",
                 "repo": "coqhammer",
                 "stars": 243
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-18T15:27:51Z",
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 920
+                "stars": 919
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2026-03-10T11:31:44Z",
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 417
+                "stars": 418
               }
             },
             {
@@ -1444,7 +1444,7 @@
                 "archived": false,
                 "id": 1529601,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-21T13:46:58Z",
+                "last_commit": "2026-08-22T12:57:31Z",
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
                 "stars": 1403
@@ -1474,7 +1474,7 @@
                 "archived": false,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-21T07:52:48Z",
+                "last_commit": "2026-08-22T01:29:11Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 805
@@ -1489,7 +1489,7 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T19:28:39Z",
+                "last_commit": "2026-08-22T13:49:49Z",
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
@@ -1557,21 +1557,6 @@
             },
             {
               "node_type": "item",
-              "title": "Infotheo",
-              "description": "Formalization of information theory and linear error-correcting codes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 114941836,
-                "language": "Rocq Prover",
-                "last_commit": "2026-07-29T14:10:39Z",
-                "owner": "affeldt-aist",
-                "repo": "infotheo",
-                "stars": 76
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Monae",
               "description": "Monadic effects and equational reasoning.",
               "children": [],
@@ -1582,6 +1567,21 @@
                 "last_commit": "2026-07-21T03:40:03Z",
                 "owner": "affeldt-aist",
                 "repo": "monae",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infotheo",
+              "description": "Formalization of information theory and linear error-correcting codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114941836,
+                "language": "Rocq Prover",
+                "last_commit": "2026-07-29T14:10:39Z",
+                "owner": "affeldt-aist",
+                "repo": "infotheo",
                 "stars": 76
               }
             },
@@ -1736,7 +1736,7 @@
                 "archived": false,
                 "id": 78072136,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-21T14:32:04Z",
+                "last_commit": "2026-08-22T10:06:28Z",
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 362
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 350921474,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-21T14:31:45Z",
+                "last_commit": "2026-08-21T16:53:54Z",
                 "owner": "pi8027",
                 "repo": "stablesort",
                 "stars": 25
@@ -1899,10 +1899,10 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-21T11:26:38Z",
+                "last_commit": "2026-08-22T11:23:17Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5550
+                "stars": 5551
               }
             },
             {
@@ -2006,7 +2006,7 @@
                 "last_commit": "2024-04-30T02:13:19Z",
                 "owner": "clarksmr",
                 "repo": "sf-lectures",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:50:13.165Z",
+    "last_updated": "2026-08-22T14:34:54.209Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_id": 232886823,
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
