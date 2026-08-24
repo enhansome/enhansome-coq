@@ -94,7 +94,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Package and Build Management
 
 * [Coq Platform](https://github.com/coq/platform) ⭐ 244 | 🐛 68 | 🌐 Shell | 📅 2026-07-30 - Curated collection of packages to support Coq use in industry, education, and research.
-* [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) ⭐ 56 | 🐛 39 | 🌐 Nix | 📅 2026-08-24 - Nix helper scripts to automate local builds and continuous integration for Coq.
+* [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) ⭐ 56 | 🐛 40 | 🌐 Nix | 📅 2026-08-24 - Nix helper scripts to automate local builds and continuous integration for Coq.
 * [Docker-Coq](https://github.com/coq-community/docker-coq) ⭐ 40 | 🐛 6 | 🌐 Shell | 📅 2025-05-13 - Docker images for many versions of Coq.
 * [coq-community Templates](https://github.com/coq-community/templates) ⭐ 17 | 🐛 26 | 🌐 Mustache | 📅 2026-03-19 - Templates for generating configuration files for Coq projects.
 * [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) ⭐ 6 | 🐛 5 | 🌐 Dockerfile | 📅 2026-08-20 - Docker images for many combinations of versions of Coq and the Mathematical Components library.
