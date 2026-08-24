@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 34430052,
                 "language": "Rocq Prover",
-                "last_commit": "2026-06-19T11:02:33Z",
+                "last_commit": "2026-08-24T14:15:24Z",
                 "owner": "mit-plv",
                 "repo": "fiat",
                 "stars": 157
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-19T13:49:17Z",
+                "last_commit": "2026-08-23T15:53:48Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-19T13:49:17Z",
+                "last_commit": "2026-08-23T15:53:48Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -331,7 +331,7 @@
                 "last_commit": "2026-06-12T08:26:44Z",
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -680,7 +680,7 @@
                 "archived": false,
                 "id": 338370962,
                 "language": "Nix",
-                "last_commit": "2026-08-21T09:04:17Z",
+                "last_commit": "2026-08-24T05:54:12Z",
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
                 "stars": 56
@@ -882,7 +882,7 @@
                 "archived": false,
                 "id": 375053657,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T10:43:26Z",
+                "last_commit": "2026-08-24T13:35:53Z",
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
                 "stars": 51
@@ -952,7 +952,7 @@
                 "last_commit": "2022-09-13T02:25:08Z",
                 "owner": "codyroux",
                 "repo": "name-the-biggest-number",
-                "stars": 67
+                "stars": 69
               }
             },
             {
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-18T15:27:51Z",
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 919
+                "stars": 920
               }
             },
             {
@@ -1194,7 +1194,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Automatically minimizes source files producing an error, creating small test cases for Coq bugs.",
                   "children": [],
                   "repo_info": {
@@ -1209,7 +1209,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Processes source files to make loading of dependencies robust against shadowing of file names.",
                   "children": [],
                   "repo_info": {
@@ -1224,7 +1224,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Creates stand-alone source files from developments by inlining the loading of all dependencies.",
                   "children": [],
                   "repo_info": {
@@ -1239,7 +1239,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Removes loading of unused dependencies.",
                   "children": [],
                   "repo_info": {
@@ -1254,7 +1254,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Moves all dependency loading statements to the top of source files.",
                   "children": [],
                   "repo_info": {
@@ -1269,7 +1269,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Lifts many vernacular commands and inner lemmas out of proof script blocks.",
                   "children": [],
                   "repo_info": {
@@ -1284,7 +1284,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "coq-tools",
                   "description": "Modifies source files to include proof annotations for faster parallel proving.",
                   "children": [],
                   "repo_info": {
@@ -1392,7 +1392,7 @@
                 "archived": false,
                 "id": 455204433,
                 "language": "Prolog",
-                "last_commit": "2026-08-23T13:44:49Z",
+                "last_commit": "2026-08-24T14:09:06Z",
                 "owner": "rocq-trakt",
                 "repo": "trakt",
                 "stars": 17
@@ -1477,7 +1477,7 @@
                 "last_commit": "2026-08-22T01:29:11Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
-                "stars": 805
+                "stars": 806
               }
             },
             {
@@ -1489,7 +1489,7 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-22T19:09:15Z",
+                "last_commit": "2026-08-23T19:17:09Z",
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
@@ -1579,7 +1579,7 @@
                 "archived": false,
                 "id": 114941836,
                 "language": "Rocq Prover",
-                "last_commit": "2026-07-29T14:10:39Z",
+                "last_commit": "2026-08-24T07:41:45Z",
                 "owner": "affeldt-aist",
                 "repo": "infotheo",
                 "stars": 76
@@ -1721,7 +1721,7 @@
                 "archived": false,
                 "id": 42269036,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-19T19:24:49Z",
+                "last_commit": "2026-08-24T13:53:24Z",
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
                 "stars": 839
@@ -1899,10 +1899,10 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-22T11:23:17Z",
+                "last_commit": "2026-08-24T13:07:57Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5551
+                "stars": 5555
               }
             },
             {
@@ -1914,7 +1914,7 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T16:28:12Z",
+                "last_commit": "2026-08-24T13:06:45Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:35:53.427Z",
+    "last_updated": "2026-08-24T14:24:39.297Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_id": 232886823,
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
