@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 165117331,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-13T14:50:21Z",
+                "last_commit": "2026-08-25T12:32:11Z",
                 "owner": "AU-COBRA",
                 "repo": "ConCert",
                 "stars": 128
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 16694745,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-20T14:25:25Z",
+                "last_commit": "2026-08-25T07:11:57Z",
                 "owner": "rocq-community",
                 "repo": "coqeal",
                 "stars": 74
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-23T15:53:48Z",
+                "last_commit": "2026-08-25T14:54:50Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-23T15:53:48Z",
+                "last_commit": "2026-08-25T14:54:50Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -680,7 +680,7 @@
                 "archived": false,
                 "id": 338370962,
                 "language": "Nix",
-                "last_commit": "2026-08-24T05:54:12Z",
+                "last_commit": "2026-08-25T12:12:47Z",
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
                 "stars": 56
@@ -882,7 +882,7 @@
                 "archived": false,
                 "id": 375053657,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-24T15:04:37Z",
+                "last_commit": "2026-08-25T14:56:29Z",
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
                 "stars": 51
@@ -1392,7 +1392,7 @@
                 "archived": false,
                 "id": 455204433,
                 "language": "Prolog",
-                "last_commit": "2026-08-24T14:09:06Z",
+                "last_commit": "2026-08-25T08:07:55Z",
                 "owner": "rocq-trakt",
                 "repo": "trakt",
                 "stars": 17
@@ -1482,6 +1482,21 @@
             },
             {
               "node_type": "item",
+              "title": "Four Color Theorem",
+              "description": "Formal proof of the Four Color Theorem, a landmark result of graph theory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156423471,
+                "language": "Rocq Prover",
+                "last_commit": "2026-08-20T14:15:57Z",
+                "owner": "rocq-community",
+                "repo": "fourcolor",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Analysis",
               "description": "Library for classical real analysis compatible with Mathematical Components.",
               "children": [],
@@ -1493,21 +1508,6 @@
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Four Color Theorem",
-              "description": "Formal proof of the Four Color Theorem, a landmark result of graph theory.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 156423471,
-                "language": "Rocq Prover",
-                "last_commit": "2026-08-20T14:15:57Z",
-                "owner": "rocq-community",
-                "repo": "fourcolor",
-                "stars": 246
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "archived": false,
                 "id": 78072136,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-23T12:17:54Z",
+                "last_commit": "2026-08-25T13:52:52Z",
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 362
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:10.242Z",
+    "last_updated": "2026-08-25T15:00:12.344Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_id": 232886823,
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
