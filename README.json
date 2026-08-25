@@ -152,7 +152,7 @@
                 "last_commit": "2026-06-18T19:26:48Z",
                 "owner": "VeriNum",
                 "repo": "vcfloat",
-                "stars": 32
+                "stars": 33
               }
             }
           ],
@@ -765,7 +765,7 @@
                 "last_commit": "2026-08-20T17:41:31Z",
                 "owner": "QuickChick",
                 "repo": "QuickChick",
-                "stars": 292
+                "stars": 291
               }
             },
             {
@@ -882,7 +882,7 @@
                 "archived": false,
                 "id": 375053657,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-24T13:35:53Z",
+                "last_commit": "2026-08-24T15:04:37Z",
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
                 "stars": 51
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-18T15:27:51Z",
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 920
+                "stars": 922
               }
             },
             {
@@ -1489,7 +1489,7 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-23T19:17:09Z",
+                "last_commit": "2026-08-24T19:21:49Z",
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
@@ -1814,7 +1814,7 @@
                 "last_commit": "2026-06-18T11:54:29Z",
                 "owner": "WasmCert",
                 "repo": "WasmCert-Coq",
-                "stars": 123
+                "stars": 124
               }
             },
             {
@@ -1914,7 +1914,7 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-24T13:06:45Z",
+                "last_commit": "2026-08-24T17:37:12Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:56:25.338Z",
+    "last_updated": "2026-08-25T06:18:10.242Z",
     "original_repository": "rocq-community/awesome-coq",
     "original_repository_id": 232886823,
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
