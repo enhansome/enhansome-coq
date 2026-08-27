@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T08:08:28Z",
+                "last_commit": "2026-08-27T21:04:13Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T08:08:28Z",
+                "last_commit": "2026-08-27T21:04:13Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -1447,7 +1447,7 @@
                 "last_commit": "2026-08-22T12:57:31Z",
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
-                "stars": 1403
+                "stars": 1404
               }
             },
             {
@@ -1474,7 +1474,7 @@
                 "archived": false,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-26T19:10:12Z",
+                "last_commit": "2026-08-27T21:28:47Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 806
@@ -1721,7 +1721,7 @@
                 "archived": false,
                 "id": 42269036,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T08:02:50Z",
+                "last_commit": "2026-08-27T14:07:00Z",
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
                 "stars": 839
@@ -1899,7 +1899,7 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T11:29:29Z",
+                "last_commit": "2026-08-27T13:35:40Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5556
@@ -1914,7 +1914,7 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-26T17:08:27Z",
+                "last_commit": "2026-08-27T18:01:31Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
@@ -2006,7 +2006,7 @@
                 "last_commit": "2024-04-30T02:13:19Z",
                 "owner": "clarksmr",
                 "repo": "sf-lectures",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -2146,7 +2146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:29.210Z",
+    "last_updated": "2026-08-27T23:45:53.700Z",
     "original_repository_info": {
       "archived": false,
       "id": 232886823,
