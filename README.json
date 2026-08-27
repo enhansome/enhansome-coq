@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-26T02:21:19Z",
+                "last_commit": "2026-08-27T08:08:28Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-26T02:21:19Z",
+                "last_commit": "2026-08-27T08:08:28Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
@@ -680,7 +680,7 @@
                 "archived": false,
                 "id": 338370962,
                 "language": "Nix",
-                "last_commit": "2026-08-25T18:00:14Z",
+                "last_commit": "2026-08-26T20:40:50Z",
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
                 "stars": 56
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-18T14:51:45Z",
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 548
+                "stars": 549
               }
             },
             {
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 375053657,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-25T17:03:31Z",
+                "last_commit": "2026-08-27T07:53:41Z",
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -1474,7 +1474,7 @@
                 "archived": false,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-26T07:28:23Z",
+                "last_commit": "2026-08-26T19:10:12Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 806
@@ -1504,7 +1504,7 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-25T19:26:07Z",
+                "last_commit": "2026-08-27T08:11:55Z",
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
@@ -1721,7 +1721,7 @@
                 "archived": false,
                 "id": 42269036,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-25T17:07:18Z",
+                "last_commit": "2026-08-27T08:02:50Z",
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
                 "stars": 839
@@ -1736,7 +1736,7 @@
                 "archived": false,
                 "id": 78072136,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-26T14:30:15Z",
+                "last_commit": "2026-08-27T09:11:13Z",
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 362
@@ -1769,7 +1769,7 @@
                 "last_commit": "2023-12-08T14:05:25Z",
                 "owner": "uwplse",
                 "repo": "verdi-raft",
-                "stars": 199
+                "stars": 200
               }
             },
             {
@@ -1899,7 +1899,7 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-26T13:44:59Z",
+                "last_commit": "2026-08-27T11:29:29Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5556
@@ -1914,7 +1914,7 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-24T17:37:12Z",
+                "last_commit": "2026-08-26T17:08:27Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
@@ -2146,9 +2146,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:58:28.300Z",
-    "original_repository": "rocq-community/awesome-coq",
-    "original_repository_id": 232886823,
+    "last_updated": "2026-08-27T11:35:29.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 232886823,
+      "language": null,
+      "last_commit": "2026-06-05T13:02:39Z",
+      "owner": "rocq-community",
+      "repo": "awesome-coq",
+      "stars": 394
+    },
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
     "enhanced_repository_description": null,
