@@ -18,7 +18,8 @@
                 "owner": "uwplse",
                 "repo": "verdi",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "mit-plv",
                 "repo": "fiat",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "AU-COBRA",
                 "repo": "ConCert",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "SSProve",
                 "repo": "ssprove",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "imdea-software",
                 "repo": "htt",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "rocq-community",
                 "repo": "coqeal",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "querycert",
                 "repo": "qcert",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "adampetcher",
                 "repo": "fcf",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "lthms",
                 "repo": "FreeSpec",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "VeriNum",
                 "repo": "vcfloat",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -175,7 +185,8 @@
                 "owner": "jscoq",
                 "repo": "jscoq",
                 "stars": 547
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -186,11 +197,12 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T21:04:13Z",
+                "last_commit": "2026-08-28T19:43:51Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -201,11 +213,12 @@
                 "archived": false,
                 "id": 196233996,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T21:04:13Z",
+                "last_commit": "2026-08-28T19:43:51Z",
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "cpitclaudel",
                 "repo": "company-coq",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "whonore",
                 "repo": "Coqtail",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "rocq-community",
                 "repo": "rocq-lsp",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "EugeneLoy",
                 "repo": "coq_jupyter",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "impermeable",
                 "repo": "waterproof",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "ProofGeneral",
                 "repo": "opam-switch-mode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "lamg",
                 "repo": "tree-sitter-rocq",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -332,7 +352,8 @@
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "jwiegley",
                 "repo": "coq-haskell",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "uds-psl",
                 "repo": "coq-library-undecidability",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "rocq-community",
                 "repo": "coq-ext-lib",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "plclub",
                 "repo": "metalib",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "damien-pous",
                 "repo": "relation-algebra",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "tchajed",
                 "repo": "coq-record-update",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "rocq-community",
                 "repo": "reglang",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "charguer",
                 "repo": "tlc",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "math-comp",
                 "repo": "algebra-tactics",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "fblanqui",
                 "repo": "color",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "imdea-software",
                 "repo": "fcsl-pcm",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "Lysxia",
                 "repo": "rocq-simple-io",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "mit-plv",
                 "repo": "bbv",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "math-comp",
                 "repo": "mczify",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -557,7 +592,8 @@
                 "owner": "vafeiadis",
                 "repo": "hahn",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -572,7 +608,8 @@
                 "owner": "rocq-community",
                 "repo": "alea",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -587,7 +624,8 @@
                 "owner": "rocq-community",
                 "repo": "bignums",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -602,7 +640,8 @@
                 "owner": "Matafou",
                 "repo": "LibHyps",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -617,7 +656,8 @@
                 "owner": "CertiGraph",
                 "repo": "CertiGraph",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -632,7 +672,8 @@
                 "owner": "thery",
                 "repo": "mathcomp-extra",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -647,7 +688,8 @@
                 "owner": "DmxLarchey",
                 "repo": "Coq-Kruskal",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -669,7 +711,8 @@
                 "owner": "rocq-prover",
                 "repo": "platform",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -680,11 +723,12 @@
                 "archived": false,
                 "id": 338370962,
                 "language": "Nix",
-                "last_commit": "2026-08-26T20:40:50Z",
+                "last_commit": "2026-08-28T09:30:04Z",
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -699,7 +743,8 @@
                 "owner": "rocq-community",
                 "repo": "docker-coq",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -714,7 +759,8 @@
                 "owner": "rocq-community",
                 "repo": "templates",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "math-comp",
                 "repo": "docker-mathcomp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -751,7 +798,8 @@
                 "owner": "MetaRocq",
                 "repo": "metarocq",
                 "stars": 549
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "QuickChick",
                 "repo": "QuickChick",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -780,8 +829,9 @@
                 "last_commit": "2026-08-21T20:29:44Z",
                 "owner": "lukaszcz",
                 "repo": "coqhammer",
-                "stars": 243
-              }
+                "stars": 244
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -796,7 +846,8 @@
                 "owner": "rocq-prover",
                 "repo": "equations",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -811,7 +862,8 @@
                 "owner": "LPCIC",
                 "repo": "coq-elpi",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -822,11 +874,12 @@
                 "archived": false,
                 "id": 29019245,
                 "language": "OCaml",
-                "last_commit": "2026-08-25T19:48:47Z",
+                "last_commit": "2026-08-28T15:16:54Z",
                 "owner": "smtcoq",
                 "repo": "smtcoq",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -841,7 +894,8 @@
                 "owner": "math-comp",
                 "repo": "hierarchy-builder",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -856,7 +910,8 @@
                 "owner": "unicoq",
                 "repo": "unicoq",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -871,7 +926,8 @@
                 "owner": "Mtac2",
                 "repo": "Mtac2",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -882,11 +938,12 @@
                 "archived": false,
                 "id": 375053657,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T07:53:41Z",
+                "last_commit": "2026-08-28T13:51:28Z",
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -901,7 +958,8 @@
                 "owner": "rocq-community",
                 "repo": "paramcoq",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -916,7 +974,8 @@
                 "owner": "rocq-community",
                 "repo": "aac-tactics",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -931,7 +990,8 @@
                 "owner": "damien-pous",
                 "repo": "coinduction",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -953,7 +1013,8 @@
                 "owner": "codyroux",
                 "repo": "name-the-biggest-number",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -968,7 +1029,8 @@
                 "owner": "thery",
                 "repo": "hanoi",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -983,7 +1045,8 @@
                 "owner": "rocq-community",
                 "repo": "coqoban",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -998,7 +1061,8 @@
                 "owner": "thery",
                 "repo": "T2048",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1077,8 @@
                 "owner": "rocq-community",
                 "repo": "sudoku",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1028,7 +1093,8 @@
                 "owner": "uncomputable",
                 "repo": "natural-number-game",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1109,8 @@
                 "owner": "thery",
                 "repo": "minirubik",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -1064,8 +1131,9 @@
                 "last_commit": "2026-08-26T13:57:52Z",
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 923
-              }
+                "stars": 925
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1080,7 +1148,8 @@
                 "owner": "uwdb",
                 "repo": "Cosette",
                 "stars": 686
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1164,8 @@
                 "owner": "ott-lang",
                 "repo": "ott",
                 "stars": 418
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1180,8 @@
                 "owner": "cpitclaudel",
                 "repo": "alectryon",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1196,8 @@
                 "owner": "formal-land",
                 "repo": "rocq-of-ocaml",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1212,8 @@
                 "owner": "rocq-archive",
                 "repo": "coq-serapi",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1228,8 @@
                 "owner": "rocq-community",
                 "repo": "coq-dpdgraph",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1244,8 @@
                 "owner": "plclub",
                 "repo": "hs-to-rocq",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1260,8 @@
                 "owner": "ejgallego",
                 "repo": "pycoq",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1205,7 +1281,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1220,7 +1297,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1235,7 +1313,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1250,7 +1329,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1265,7 +1345,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1280,7 +1361,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 },
                 {
                   "node_type": "item",
@@ -1295,7 +1377,8 @@
                     "owner": "JasonGross",
                     "repo": "coq-tools",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:47.438Z"
                 }
               ],
               "repo_info": {
@@ -1306,7 +1389,8 @@
                 "owner": "JasonGross",
                 "repo": "coq-tools",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1321,7 +1405,8 @@
                 "owner": "plclub",
                 "repo": "lngen",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1336,7 +1421,8 @@
                 "owner": "xavierleroy",
                 "repo": "coq2html",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1437,8 @@
                 "owner": "EngineeringSoftware",
                 "repo": "mcoq",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1453,8 @@
                 "owner": "EngineeringSoftware",
                 "repo": "roosterize",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1469,8 @@
                 "owner": "uds-psl",
                 "repo": "autosubst-ocaml",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1485,8 @@
                 "owner": "rocq-trakt",
                 "repo": "trakt",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1411,7 +1501,8 @@
                 "owner": "JasonGross",
                 "repo": "coq-scripts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1426,7 +1517,8 @@
                 "owner": "affeldt-aist",
                 "repo": "rocqnavi",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -1448,7 +1540,8 @@
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
                 "stars": 1404
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1556,8 @@
                 "owner": "UniMath",
                 "repo": "UniMath",
                 "stars": 1017
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1474,11 +1568,12 @@
                 "archived": false,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T21:28:47Z",
+                "last_commit": "2026-08-28T22:55:47Z",
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 806
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1588,8 @@
                 "owner": "rocq-community",
                 "repo": "fourcolor",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1504,11 +1600,12 @@
                 "archived": false,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T08:11:55Z",
+                "last_commit": "2026-08-28T02:50:21Z",
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1523,7 +1620,8 @@
                 "owner": "GeoCoq",
                 "repo": "GeoCoq",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1538,7 +1636,8 @@
                 "owner": "rocq-community",
                 "repo": "math-classes",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1553,7 +1652,8 @@
                 "owner": "rocq-community",
                 "repo": "corn",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1568,7 +1668,8 @@
                 "owner": "affeldt-aist",
                 "repo": "monae",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1583,7 +1684,8 @@
                 "owner": "affeldt-aist",
                 "repo": "infotheo",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1598,7 +1700,8 @@
                 "owner": "math-comp",
                 "repo": "finmap",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1613,7 +1716,8 @@
                 "owner": "thery",
                 "repo": "coqprime",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1628,7 +1732,8 @@
                 "owner": "rocq-community",
                 "repo": "graph-theory",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1643,7 +1748,8 @@
                 "owner": "math-comp",
                 "repo": "odd-order",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1658,7 +1764,8 @@
                 "owner": "rocq-community",
                 "repo": "gaia",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1673,7 +1780,8 @@
                 "owner": "rocq-community",
                 "repo": "coqtail-math",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1688,7 +1796,8 @@
                 "owner": "rocq-community",
                 "repo": "comp-dec-modal",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1703,7 +1812,8 @@
                 "owner": "roglo",
                 "repo": "puiseuxth",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -1725,7 +1835,8 @@
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1736,11 +1847,12 @@
                 "archived": false,
                 "id": 78072136,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T09:11:13Z",
+                "last_commit": "2026-08-28T16:34:31Z",
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1755,7 +1867,8 @@
                 "owner": "jscert",
                 "repo": "jscert",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1770,7 +1883,8 @@
                 "owner": "uwplse",
                 "repo": "verdi-raft",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1785,7 +1899,8 @@
                 "owner": "CertiRocq",
                 "repo": "certirocq",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1915,8 @@
                 "owner": "verse-lab",
                 "repo": "ceramist",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1931,8 @@
                 "owner": "WasmCert",
                 "repo": "WasmCert-Coq",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1947,8 @@
                 "owner": "mit-plv",
                 "repo": "riscv-coq",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1845,7 +1963,8 @@
                 "owner": "rocq-community",
                 "repo": "fav-ssr",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1856,11 +1975,12 @@
                 "archived": false,
                 "id": 350921474,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-21T16:53:54Z",
+                "last_commit": "2026-08-28T19:59:41Z",
                 "owner": "pi8027",
                 "repo": "stablesort",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1875,7 +1995,8 @@
                 "owner": "rocq-community",
                 "repo": "tarjan",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -1899,11 +2020,12 @@
                 "archived": false,
                 "id": 1377159,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T13:35:40Z",
+                "last_commit": "2026-08-28T16:46:51Z",
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5556
-              }
+                "stars": 5558
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1914,11 +2036,12 @@
                 "archived": false,
                 "id": 32018344,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-27T18:01:31Z",
+                "last_commit": "2026-08-28T11:27:28Z",
                 "owner": "math-comp",
                 "repo": "math-comp",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1933,7 +2056,8 @@
                 "owner": "rocq-community",
                 "repo": "manifesto",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1948,7 +2072,8 @@
                 "owner": "rocq-community",
                 "repo": "coq-100-theorems",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -1970,7 +2095,8 @@
                 "owner": "uds-psl",
                 "repo": "MPCTT",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -1985,7 +2111,8 @@
                 "owner": "rocq-community",
                 "repo": "hydra-battles",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -2006,8 +2133,9 @@
                 "last_commit": "2024-04-30T02:13:19Z",
                 "owner": "clarksmr",
                 "repo": "sf-lectures",
-                "stars": 162
-              }
+                "stars": 161
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2022,7 +2150,8 @@
                 "owner": "xavierleroy",
                 "repo": "cdf-mech-sem",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2037,7 +2166,8 @@
                 "owner": "xavierleroy",
                 "repo": "cdf-program-logics",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2052,7 +2182,8 @@
                 "owner": "thery",
                 "repo": "FlocqLecture",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2067,7 +2198,8 @@
                 "owner": "gares",
                 "repo": "math-comp-school-2022",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -2089,7 +2221,8 @@
                 "owner": "rocq-community",
                 "repo": "rocq-tricks",
                 "stars": 552
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2104,7 +2237,8 @@
                 "owner": "rocq-community",
                 "repo": "coq-art",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2119,7 +2253,8 @@
                 "owner": "rocq-community",
                 "repo": "lemma-overloading",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             },
             {
               "node_type": "item",
@@ -2134,7 +2269,8 @@
                 "owner": "math-comp",
                 "repo": "tutorial_material",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
             }
           ],
           "description": null,
@@ -2146,7 +2282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:45:53.700Z",
+    "last_updated": "2026-08-28T23:31:47.438Z",
     "original_repository_info": {
       "archived": false,
       "id": 232886823,
