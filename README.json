@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for formally verifying distributed systems implementations in Coq",
+                "homepage": null,
                 "id": 26697351,
                 "language": "Rocq Prover",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-01-27T13:15:07Z",
+                "open_issues": 5,
                 "owner": "uwplse",
                 "repo": "verdi",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "coq",
+                  "coq-library",
+                  "distributed-systems",
+                  "proof",
+                  "verdi"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mostly Automated Synthesis of Correct-by-Construction Programs",
+                "homepage": "http://plv.csail.mit.edu/fiat/",
                 "id": 34430052,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:15:24Z",
+                "open_issues": 1,
                 "owner": "mit-plv",
                 "repo": "fiat",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -44,12 +60,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for smart contract verification in Coq",
+                "homepage": null,
                 "id": 165117331,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-25T12:32:11Z",
+                "open_issues": 8,
                 "owner": "AU-COBRA",
                 "repo": "ConCert",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "blockchain",
+                  "coq",
+                  "smart-contracts",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -60,12 +86,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A foundational framework for modular cryptographic proofs in Coq",
+                "homepage": null,
                 "id": 345937744,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-23T10:33:50Z",
+                "open_issues": 17,
                 "owner": "SSProve",
                 "repo": "ssprove",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "coq-formalization",
+                  "coq-library",
+                  "cryptography",
+                  "formal-verification",
+                  "modular-cryptographic-proofs",
+                  "state-separating-proofs"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -76,12 +114,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hoare Type Theory ",
+                "homepage": null,
                 "id": 18024017,
                 "language": "Rocq Prover",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:07:18Z",
+                "open_issues": 0,
                 "owner": "imdea-software",
                 "repo": "htt",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "coq",
+                  "hoare-logic",
+                  "hoare-monads",
+                  "linked-list",
+                  "separation-logic",
+                  "type-system"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -92,12 +142,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Coq Effective Algebra Library [maintainers=@CohenCyril,@proux01]",
+                "homepage": null,
                 "id": 16694745,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T07:11:57Z",
+                "open_issues": 8,
                 "owner": "rocq-community",
                 "repo": "coqeal",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "mathcomp",
+                  "mathcomp-ci",
+                  "refinement"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -108,12 +170,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compilation and Verification of Data-Centric Languages",
+                "homepage": "https://querycert.github.io/",
                 "id": 60909023,
                 "language": "Coq",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T16:31:36Z",
+                "open_issues": 32,
                 "owner": "querycert",
                 "repo": "qcert",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "compiler",
+                  "coq-proof-assistant",
+                  "functional-programming",
+                  "query-engine",
+                  "query-language",
+                  "sql",
+                  "verification",
+                  "verified-compiler"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -124,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foundational Cryptography Framework for machine-checked proofs of cryptography.  ",
+                "homepage": null,
                 "id": 33559733,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-02T19:51:09Z",
+                "open_issues": 7,
                 "owner": "adampetcher",
                 "repo": "fcf",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -140,12 +221,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for implementing and certifying impure computations in Coq",
+                "homepage": "https://lthms.github.io/FreeSpec",
                 "id": 119076073,
                 "language": "Coq",
+                "license": "MPL-2.0",
                 "last_commit": "2024-01-16T19:04:08Z",
+                "open_issues": 7,
                 "owner": "lthms",
                 "repo": "FreeSpec",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "coq",
+                  "formal-verification",
+                  "freer-monads"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -156,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VCFloat: A Unified Coq Framework for Verifying C Programs with Floating-Point Computations",
+                "homepage": null,
                 "id": 47426662,
                 "language": "Rocq Prover",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-18T19:26:48Z",
+                "open_issues": 6,
                 "owner": "VeriNum",
                 "repo": "vcfloat",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -179,12 +274,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of Coq to Javascript -- Run Coq in your Browser",
+                "homepage": "https://jscoq.github.io",
                 "id": 35511034,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-15T11:24:18Z",
+                "open_issues": 79,
                 "owner": "jscoq",
                 "repo": "jscoq",
-                "stars": 547
+                "stars": 547,
+                "topics": [
+                  "coq",
+                  "integrated-development-environment",
+                  "javascript",
+                  "proof-assistant"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -195,12 +300,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code extension for Rocq",
+                "homepage": null,
                 "id": 196233996,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:43:51Z",
+                "open_issues": 174,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
-                "stars": 460
+                "stars": 460,
+                "topics": [
+                  "coq",
+                  "editor",
+                  "rocq",
+                  "rocq-prover",
+                  "vscode",
+                  "vscode-extension",
+                  "vscodium"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -211,12 +329,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code extension for Rocq",
+                "homepage": null,
                 "id": 196233996,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:43:51Z",
+                "open_issues": 174,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
-                "stars": 460
+                "stars": 460,
+                "topics": [
+                  "coq",
+                  "editor",
+                  "rocq",
+                  "rocq-prover",
+                  "vscode",
+                  "vscode-extension",
+                  "vscodium"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -227,12 +358,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Coq IDE build on top of Proof General's Coq mode",
+                "homepage": null,
                 "id": 30835336,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-23T17:21:09Z",
+                "open_issues": 103,
                 "owner": "cpitclaudel",
                 "repo": "company-coq",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "company-mode",
+                  "coq",
+                  "emacs",
+                  "integrated-development-environment",
+                  "proof-assistant",
+                  "proof-general"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -243,12 +386,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive Coq Proofs in Vim",
+                "homepage": null,
                 "id": 92962561,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T00:33:57Z",
+                "open_issues": 39,
                 "owner": "whonore",
                 "repo": "Coqtail",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "coq",
+                  "proof-assistant",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -259,12 +411,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code Extension and Language Server Protocol for Rocq / Coq [maintainers=@gbdrt,@SkySkimmer,@tabareau]",
+                "homepage": null,
                 "id": 169723166,
                 "language": "OCaml",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-21T06:28:42Z",
+                "open_issues": 150,
                 "owner": "rocq-community",
                 "repo": "rocq-lsp",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "coq",
+                  "ide",
+                  "interactive-theorem-proving",
+                  "language-server-protocol",
+                  "rocq",
+                  "rocq-prover",
+                  "user-interface",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -275,12 +441,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter kernel for Coq",
+                "homepage": null,
                 "id": 163189275,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-03T21:23:12Z",
+                "open_issues": 16,
                 "owner": "EugeneLoy",
                 "repo": "coq_jupyter",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "coq",
+                  "dependent-types",
+                  "jupyter",
+                  "jupyter-extension",
+                  "jupyter-kernels",
+                  "jupyter-notebook",
+                  "kernel",
+                  "proof-assistant",
+                  "python-pa",
+                  "theorem-proving"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -291,12 +473,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Waterproof is an educational environment for writing mathematical proofs in interactive notebooks. See the readme file for install instructions.",
+                "homepage": null,
                 "id": 209734088,
                 "language": "JavaScript",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-03-23T12:26:11Z",
+                "open_issues": 33,
                 "owner": "impermeable",
                 "repo": "waterproof",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "coq",
+                  "serapi"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -307,12 +497,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Select OCaml opam switches via a menu or using a command",
+                "homepage": "https://github.com/ProofGeneral/opam-switch-mode/blob/master/NEWS.md",
                 "id": 497592196,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-02T09:17:29Z",
+                "open_issues": 3,
                 "owner": "ProofGeneral",
                 "repo": "opam-switch-mode",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "emacs",
+                  "merlin",
+                  "ocaml",
+                  "opam",
+                  "proof-general",
+                  "tuareg"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -323,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1030258718,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2025-08-17T10:53:12Z",
+                "open_issues": 0,
                 "owner": "lamg",
                 "repo": "tree-sitter-rocq",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -346,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Library for Representing Recursive and Impure Programs in Coq",
+                "homepage": null,
                 "id": 138210180,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-06-12T08:26:44Z",
+                "open_issues": 30,
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
-                "stars": 256
+                "stars": 256,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -362,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for formalizing Haskell types and functions in Coq",
+                "homepage": null,
                 "id": 23242099,
                 "language": "Coq",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-15T18:12:24Z",
+                "open_issues": 2,
                 "owner": "jwiegley",
                 "repo": "coq-haskell",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -378,12 +595,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of mechanised undecidability proofs in the Coq proof assistant.",
+                "homepage": null,
                 "id": 154827809,
                 "language": "Rocq Prover",
+                "license": "MPL-2.0",
                 "last_commit": "2026-06-24T19:36:29Z",
+                "open_issues": 19,
                 "owner": "uds-psl",
                 "repo": "coq-library-undecidability",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "coq"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -394,12 +618,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of Coq definitions, theorems, and tactics. [maintainers=@gmalecha,@liyishuai] ",
+                "homepage": "https://coq-community.org/coq-ext-lib/",
                 "id": 5510640,
                 "language": "Rocq Prover",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-28T12:48:39Z",
+                "open_issues": 20,
                 "owner": "rocq-community",
                 "repo": "coq-ext-lib",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "library",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -410,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Penn Locally Nameless Metatheory Library",
+                "homepage": null,
                 "id": 9350871,
                 "language": "Coq",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-26T13:07:29Z",
+                "open_issues": 4,
                 "owner": "plclub",
                 "repo": "metalib",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -426,12 +666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relation algebra library for Coq",
+                "homepage": null,
                 "id": 39820751,
                 "language": "Rocq Prover",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-05-06T15:51:40Z",
+                "open_issues": 2,
                 "owner": "damien-pous",
                 "repo": "relation-algebra",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -442,12 +687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library to create Coq record update functions",
+                "homepage": null,
                 "id": 142067728,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-06-08T16:06:27Z",
+                "open_issues": 7,
                 "owner": "tchajed",
                 "repo": "coq-record-update",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -458,12 +708,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]",
+                "homepage": "https://coq-community.org/reglang/",
                 "id": 122990273,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-03T14:52:37Z",
+                "open_issues": 2,
                 "owner": "rocq-community",
                 "repo": "reglang",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "coq",
+                  "coq-nix-toolbox",
+                  "coq-platform",
+                  "docker-coq-action",
+                  "mathcomp",
+                  "mathcomp-ci",
+                  "regexp",
+                  "regular-languages",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -474,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for Classical Coq ",
+                "homepage": null,
                 "id": 222938914,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-20T09:29:13Z",
+                "open_issues": 1,
                 "owner": "charguer",
                 "repo": "tlc",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -490,12 +760,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ring, field, lra, nra, and psatz tactics for Mathematical Components",
+                "homepage": null,
                 "id": 364861583,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-04-03T12:07:43Z",
+                "open_issues": 15,
                 "owner": "math-comp",
                 "repo": "algebra-tactics",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "coq",
+                  "elpi",
+                  "mathcomp",
+                  "proof-automation",
+                  "rocq",
+                  "rocq-prover",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -506,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq library on rewriting theory and termination",
+                "homepage": null,
                 "id": 113460011,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-07T06:28:36Z",
+                "open_issues": 0,
                 "owner": "fblanqui",
                 "repo": "color",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -522,12 +810,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partial Commutative Monoids",
+                "homepage": null,
                 "id": 130369797,
                 "language": "Rocq Prover",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T13:41:21Z",
+                "open_issues": 0,
                 "owner": "imdea-software",
                 "repo": "fcsl-pcm",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "concurrency",
+                  "coq",
+                  "coq-library",
+                  "partial-commutative-monoid",
+                  "separation-logic"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -538,12 +837,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IO for Gallina",
+                "homepage": "https://lysxia.github.io/rocq-simple-io/",
                 "id": 132653878,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-20T17:41:18Z",
+                "open_issues": 4,
                 "owner": "Lysxia",
                 "repo": "rocq-simple-io",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "coq",
+                  "extraction",
+                  "ocaml"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -554,12 +862,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bedrock Bit Vector Library",
+                "homepage": null,
                 "id": 120207337,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:43:45Z",
+                "open_issues": 7,
                 "owner": "mit-plv",
                 "repo": "bbv",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -570,12 +883,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micromega tactics for Mathematical Components",
+                "homepage": null,
                 "id": 209997501,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-08-20T19:14:13Z",
+                "open_issues": 5,
                 "owner": "math-comp",
                 "repo": "mczify",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "coq",
+                  "mathcomp",
+                  "proof-automation",
+                  "rocq",
+                  "rocq-prover",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -586,12 +911,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hahn: A Coq library",
+                "homepage": null,
                 "id": 64277893,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-20T16:52:14Z",
+                "open_issues": 8,
                 "owner": "vafeiadis",
                 "repo": "hahn",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "coq-library"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -602,12 +934,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq library for reasoning on randomized algorithms [maintainers=@anton-trunov,@volodeyka]",
+                "homepage": null,
                 "id": 212108420,
                 "language": "Coq",
+                "license": "LGPL-2.1",
                 "last_commit": "2021-11-03T14:26:30Z",
+                "open_issues": 2,
                 "owner": "rocq-community",
                 "repo": "alea",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "coq",
+                  "monad",
+                  "paper-artifacts",
+                  "probability",
+                  "randomized-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -618,12 +961,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq library of arbitrarily large numbers, providing BigN, BigZ, BigQ that used to be part of the standard library [maintainers=@proux01,@erikmd]",
+                "homepage": null,
                 "id": 92944917,
                 "language": "Rocq Prover",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-03-31T15:08:03Z",
+                "open_issues": 2,
                 "owner": "rocq-community",
                 "repo": "bignums",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "coq-plugin",
+                  "docker-coq-action",
+                  "large-numbers"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -634,12 +989,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Coq library providing tactics to deal with hypothesis",
+                "homepage": null,
                 "id": 179489645,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-04-13T13:26:46Z",
+                "open_issues": 2,
                 "owner": "Matafou",
                 "repo": "LibHyps",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "coq",
+                  "formal-proofs",
+                  "hypothesis",
+                  "proof-assistant",
+                  "tactical",
+                  "tactics"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -650,12 +1017,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for verifying graph-manipulating programs. Powered by Coq and VST. Compatible with CompCert.",
+                "homepage": null,
                 "id": 275549418,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-21T07:43:56Z",
+                "open_issues": 5,
                 "owner": "CertiGraph",
                 "repo": "CertiGraph",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "compcert",
+                  "coq",
+                  "graph-algorithms",
+                  "vst"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -666,12 +1043,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra contribution for mathcomp",
+                "homepage": null,
                 "id": 197578463,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-02-24T15:58:05Z",
+                "open_issues": 1,
                 "owner": "thery",
                 "repo": "mathcomp-extra",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "aks-algorithm",
+                  "binomial",
+                  "coq",
+                  "fourier-transform",
+                  "lucas-theorem",
+                  "matroid",
+                  "primality-test",
+                  "rsa-algorithm",
+                  "sorting-algorithms",
+                  "theorem-proving"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -682,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description of the Coq-Kruskal project with a map and pointers",
+                "homepage": null,
                 "id": 787948105,
                 "language": null,
+                "license": "MPL-2.0",
                 "last_commit": "2024-12-06T14:29:19Z",
+                "open_issues": 0,
                 "owner": "DmxLarchey",
                 "repo": "Coq-Kruskal",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -705,12 +1103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi platform setup for Rocq, Rocq libraries and tools",
+                "homepage": null,
                 "id": 212040108,
                 "language": "Shell",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-30T13:01:41Z",
+                "open_issues": 68,
                 "owner": "rocq-prover",
                 "repo": "platform",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -721,12 +1124,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nix helper scripts to automate local builds and CI [maintainers=@CohenCyril,@Zimmi48]",
+                "homepage": null,
                 "id": 338370962,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:04Z",
+                "open_issues": 40,
                 "owner": "rocq-community",
                 "repo": "coq-nix-toolbox",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "coq",
+                  "nix"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -737,12 +1148,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker images of the Coq proof assistant (see also: https://github.com/coq-community/docker-coq-action) [maintainer=@Justme0606]",
+                "homepage": "https://hub.docker.com/r/coqorg/coq/",
                 "id": 150787299,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-13T16:51:54Z",
+                "open_issues": 6,
                 "owner": "rocq-community",
                 "repo": "docker-coq",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "ci",
+                  "coq",
+                  "docker-coq",
+                  "docker-image",
+                  "dockerfile",
+                  "opam"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -753,12 +1176,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Templates for configuration files and scripts useful for maintaining Coq projects [maintainers=@liyishuai,@palmskog,@Zimmi48]",
+                "homepage": null,
                 "id": 190182583,
                 "language": "Mustache",
+                "license": "Unlicense",
                 "last_commit": "2026-03-19T15:23:04Z",
+                "open_issues": 26,
                 "owner": "rocq-community",
                 "repo": "templates",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "continuous-integration",
+                  "coq",
+                  "mustache-templates"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -769,12 +1201,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker images of coq-mathcomp [maintainer=?]",
+                "homepage": "https://hub.docker.com/r/mathcomp/mathcomp/#supported-tags",
                 "id": 160655585,
                 "language": "Dockerfile",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T14:45:53Z",
+                "open_issues": 5,
                 "owner": "math-comp",
                 "repo": "docker-mathcomp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ci",
+                  "coq",
+                  "docker-image",
+                  "dockerfile",
+                  "mathcomp",
+                  "opam"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -792,12 +1236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metaprogramming, verified meta-theory and implementation of Rocq in Rocq",
+                "homepage": "https://metarocq.github.io",
                 "id": 107535901,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-18T14:51:45Z",
+                "open_issues": 95,
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 549
+                "stars": 549,
+                "topics": [
+                  "coq",
+                  "coq-formalization",
+                  "metaprogramming",
+                  "rocq"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -808,12 +1262,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Randomized Property-Based Testing Plugin for Coq",
+                "homepage": null,
                 "id": 18420385,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T17:41:31Z",
+                "open_issues": 92,
                 "owner": "QuickChick",
                 "repo": "QuickChick",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "coq",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -824,12 +1286,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoqHammer: An Automated Reasoning Hammer Tool for Rocq - Proof Automation for Dependent Type Theory",
+                "homepage": null,
                 "id": 119678694,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:29:44Z",
+                "open_issues": 9,
                 "owner": "lukaszcz",
                 "repo": "coqhammer",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "automation",
+                  "coq",
+                  "dependent-types",
+                  "hammer",
+                  "proof-search",
+                  "rocq",
+                  "rocq-prover",
+                  "theorem-prover",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -840,12 +1317,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A function definition package for Rocq",
+                "homepage": "http://mattam82.github.io/Coq-Equations",
                 "id": 351551,
                 "language": "Rocq Prover",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-20T10:43:06Z",
+                "open_issues": 104,
                 "owner": "rocq-prover",
                 "repo": "equations",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "coq",
+                  "dependent-types",
+                  "programming-language",
+                  "rocq"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -856,12 +1343,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rocq plugin embedding Elpi",
+                "homepage": null,
                 "id": 85685354,
                 "language": "OCaml",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-25T15:26:24Z",
+                "open_issues": 130,
                 "owner": "LPCIC",
                 "repo": "coq-elpi",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "coq",
+                  "extension-language",
+                  "lambda-prolog",
+                  "metaprogramming",
+                  "scripting"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -872,12 +1370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Communication between Coq and SAT/SMT solvers",
+                "homepage": null,
                 "id": 29019245,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:16:54Z",
+                "open_issues": 44,
                 "owner": "smtcoq",
                 "repo": "smtcoq",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -888,12 +1391,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High level commands to declare a hierarchy based on packed classes",
+                "homepage": null,
                 "id": 180381692,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-24T08:50:20Z",
+                "open_issues": 125,
                 "owner": "math-comp",
                 "repo": "hierarchy-builder",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "coq",
+                  "elpi",
+                  "mathcomp"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -904,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enhanced unification algorithm for Coq",
+                "homepage": null,
                 "id": 30932494,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-06-26T15:10:09Z",
+                "open_issues": 12,
                 "owner": "unicoq",
                 "repo": "unicoq",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -920,12 +1437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://plv.mpi-sws.org/mtac/",
                 "id": 43682820,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-01T20:15:34Z",
+                "open_issues": 70,
                 "owner": "Mtac2",
                 "repo": "Mtac2",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -936,12 +1458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Waterproof plugin for the Rocq proof assistant allows you to write Rocq proofs in a style that resembles handwritten mathematical proofs, designed to help university students with learning how to prove mathematical statements.",
+                "homepage": "https://impermeable.github.io/",
                 "id": 375053657,
                 "language": "Rocq Prover",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T13:51:28Z",
+                "open_issues": 23,
                 "owner": "impermeable",
                 "repo": "rocq-waterproof",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -952,12 +1479,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Old Coq plugin for parametricity [maintainer=@ppedrot]",
+                "homepage": null,
                 "id": 26958104,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T10:43:12Z",
+                "open_issues": 10,
                 "owner": "rocq-community",
                 "repo": "paramcoq",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "coq-plugin",
+                  "docker-coq-action",
+                  "parametricity"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -968,12 +1507,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq plugin providing tactics for rewriting universally quantified equations, modulo associative (and possibly commutative) operators [maintainer=@palmskog]",
+                "homepage": "https://rocq-community.org/aac-tactics",
                 "id": 56243718,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-11T16:29:55Z",
+                "open_issues": 7,
                 "owner": "rocq-community",
                 "repo": "aac-tactics",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "coq-plugin",
+                  "coq-tactic",
+                  "docker-coq-action",
+                  "nix-action"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -984,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "coinduction library for Coq",
+                "homepage": null,
                 "id": 390355891,
                 "language": "Rocq Prover",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-05-06T15:29:12Z",
+                "open_issues": 5,
                 "owner": "damien-pous",
                 "repo": "coinduction",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -1007,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 219003784,
                 "language": "Coq",
+                "license": "MIT",
                 "last_commit": "2022-09-13T02:25:08Z",
+                "open_issues": 0,
                 "owner": "codyroux",
                 "repo": "name-the-biggest-number",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1023,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hanoi tower in Coq",
+                "homepage": null,
                 "id": 179085505,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-01-29T01:01:28Z",
+                "open_issues": 0,
                 "owner": "thery",
                 "repo": "hanoi",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1039,12 +1606,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sokoban (in Coq) [maintainer=@erikmd]",
+                "homepage": "https://coq.vercel.app/fun/coqoban.html",
                 "id": 57138514,
                 "language": "Coq",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-01-03T16:48:52Z",
+                "open_issues": 1,
                 "owner": "rocq-community",
                 "repo": "coqoban",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "coq",
+                  "coq-library",
+                  "puzzle"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1055,12 +1631,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a version of the 2048 game for Coq",
+                "homepage": null,
                 "id": 240307507,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-01-30T15:20:34Z",
+                "open_issues": 0,
                 "owner": "thery",
                 "repo": "T2048",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "2048",
+                  "coq",
+                  "game"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1071,12 +1656,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A certified Sudoku solver in Coq [maintainers=@siraben,@thery] ",
+                "homepage": "https://coq-community.org/sudoku/",
                 "id": 57233340,
                 "language": "Coq",
+                "license": "LGPL-2.1",
                 "last_commit": "2022-11-14T14:50:15Z",
+                "open_issues": 0,
                 "owner": "rocq-community",
                 "repo": "sudoku",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "coq",
+                  "nix-action",
+                  "sudoku"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1087,12 +1681,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reimplementation of Natural Number Game in Coq",
+                "homepage": null,
                 "id": 563519489,
                 "language": "Rocq Prover",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-18T13:52:24Z",
+                "open_issues": 0,
                 "owner": "uncomputable",
                 "repo": "natural-number-game",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "coq",
+                  "game",
+                  "lean",
+                  "logic",
+                  "solutions",
+                  "theorem-prover"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1103,12 +1709,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solving the mini Rubik (2x2) in Coq",
+                "homepage": null,
                 "id": 175809038,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-01-29T13:02:13Z",
+                "open_issues": 0,
                 "owner": "thery",
                 "repo": "minirubik",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "2x2x2",
+                  "coq",
+                  "formalization",
+                  "rubik-cube",
+                  "theorem-proving"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -1126,12 +1743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sail architecture definition language",
+                "homepage": null,
                 "id": 119706050,
                 "language": "Sail",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T13:57:52Z",
+                "open_issues": 303,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 925
+                "stars": 925,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1142,12 +1764,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosette is an automated SQL solver.",
+                "homepage": null,
                 "id": 63834898,
                 "language": "Lean",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-12-18T06:03:06Z",
+                "open_issues": 27,
                 "owner": "uwdb",
                 "repo": "Cosette",
-                "stars": 686
+                "stars": 686,
+                "topics": [
+                  "coq",
+                  "database",
+                  "rosette",
+                  "sql",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1158,12 +1791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ott tool for writing definitions of programming languages and calculi",
+                "homepage": null,
                 "id": 72123374,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-10T11:31:44Z",
+                "open_issues": 39,
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 418
+                "stars": 418,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1174,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools for writing technical documents that mix Rocq code and prose.",
+                "homepage": null,
                 "id": 260735576,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-02T23:40:09Z",
+                "open_issues": 18,
                 "owner": "cpitclaudel",
                 "repo": "alectryon",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1190,12 +1833,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formal verification for OCaml, with Rocq",
+                "homepage": "https://formal.land/docs/tools/rocq-of-ocaml/introduction",
                 "id": 14023027,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-05-18T16:39:24Z",
+                "open_issues": 17,
                 "owner": "formal-land",
                 "repo": "rocq-of-ocaml",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "compiler",
+                  "formal-verification",
+                  "ocaml",
+                  "rocq"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1206,12 +1859,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq Protocol Playground with Se(xp)rialization of Internal Structures.",
+                "homepage": null,
                 "id": 59719510,
                 "language": "Coq",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-27T11:42:43Z",
+                "open_issues": 3,
                 "owner": "rocq-archive",
                 "repo": "coq-serapi",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "coq",
+                  "json",
+                  "machine-learning-api",
+                  "proof-assistant",
+                  "protocol",
+                  "serialization",
+                  "sexp"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1222,12 +1888,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build dependency graphs between Coq objects [maintainers=@Karmaki,@ybertot]",
+                "homepage": null,
                 "id": 17204088,
                 "language": "OCaml",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-04-16T01:17:10Z",
+                "open_issues": 28,
                 "owner": "rocq-community",
                 "repo": "coq-dpdgraph",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-platform",
+                  "dependency-analysis",
+                  "dependency-graph",
+                  "docker-coq-action"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1238,12 +1916,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert Haskell source code to Coq source code.",
+                "homepage": "https://hs-to-coq.readthedocs.io",
                 "id": 309789518,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-09T06:07:16Z",
+                "open_issues": 63,
                 "owner": "plclub",
                 "repo": "hs-to-rocq",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "coq",
+                  "haskell"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1254,12 +1940,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python bindings for the Coq interactive proof assistant",
+                "homepage": null,
                 "id": 409587275,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2022-01-10T16:11:16Z",
+                "open_issues": 25,
                 "owner": "ejgallego",
                 "repo": "pycoq",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "coq",
+                  "machine-learning",
+                  "python",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1275,12 +1971,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1291,12 +1992,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1307,12 +2013,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1323,12 +2034,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1339,12 +2055,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1355,12 +2076,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 },
@@ -1371,24 +2097,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                    "homepage": null,
                     "id": 9352008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T00:22:17Z",
+                    "open_issues": 58,
                     "owner": "JasonGross",
                     "repo": "coq-tools",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:47.438Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Some scripts to help construct small reproducing examples of bugs, implement [Proof using], etc.",
+                "homepage": null,
                 "id": 9352008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T00:22:17Z",
+                "open_issues": 58,
                 "owner": "JasonGross",
                 "repo": "coq-tools",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1399,12 +2135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for generating Locally Nameless definitions and proofs in Coq, working together with Ott",
+                "homepage": null,
                 "id": 69251000,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2024-10-22T13:59:58Z",
+                "open_issues": 0,
                 "owner": "plclub",
                 "repo": "lngen",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1415,12 +2156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML documentation generator for Coq source files",
+                "homepage": null,
                 "id": 96534345,
                 "language": "OCaml",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-15T15:01:30Z",
+                "open_issues": 1,
                 "owner": "xavierleroy",
                 "repo": "coq2html",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1431,12 +2177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation analysis tool for Coq verification projects",
+                "homepage": "https://cozy.ece.utexas.edu/mcoq/",
                 "id": 234365176,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T18:54:06Z",
+                "open_issues": 4,
                 "owner": "EngineeringSoftware",
                 "repo": "mcoq",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "coq",
+                  "mutation-analysis",
+                  "serapi"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1447,12 +2202,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for suggesting lemma names in Coq verification projects",
+                "homepage": null,
                 "id": 256885691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-06T18:37:43Z",
+                "open_issues": 2,
                 "owner": "EngineeringSoftware",
                 "repo": "roosterize",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "coq",
+                  "deep-learning",
+                  "machine-learning",
+                  "mathcomp",
+                  "name-generation",
+                  "neural-networks",
+                  "pytorch",
+                  "serapi"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1463,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 368416802,
                 "language": "Coq",
+                "license": "MIT",
                 "last_commit": "2026-07-02T21:13:27Z",
+                "open_issues": 9,
                 "owner": "uds-psl",
                 "repo": "autosubst-ocaml",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1479,12 +2253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A generic goal preprocessing tool for proof automation tactics in Coq",
+                "homepage": "https://rocq-trakt.github.io/trakt",
                 "id": 455204433,
                 "language": "Prolog",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-25T08:07:55Z",
+                "open_issues": 2,
                 "owner": "rocq-trakt",
                 "repo": "trakt",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1495,12 +2274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various useful scripts for dealing with Coq files",
+                "homepage": null,
                 "id": 20521925,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-19T15:49:23Z",
+                "open_issues": 0,
                 "owner": "JasonGross",
                 "repo": "coq-scripts",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1511,12 +2295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML documentation generator for Rocq source files",
+                "homepage": null,
                 "id": 657960022,
                 "language": "OCaml",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-12T02:59:43Z",
+                "open_issues": 17,
                 "owner": "affeldt-aist",
                 "repo": "rocqnavi",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -1534,12 +2323,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Coq library for Homotopy Type Theory",
+                "homepage": "http://homotopytypetheory.org/",
                 "id": 1529601,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T12:57:31Z",
+                "open_issues": 134,
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
-                "stars": 1404
+                "stars": 1404,
+                "topics": [
+                  "homotopy-type-theory",
+                  "type-theory",
+                  "univalent-foundations"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1550,12 +2348,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This rocq library aims to formalize a substantial body of mathematics using the univalent point of view.",
+                "homepage": "http://unimath.org/",
                 "id": 17321421,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T17:08:33Z",
+                "open_issues": 152,
                 "owner": "UniMath",
                 "repo": "UniMath",
-                "stars": 1017
+                "stars": 1017,
+                "topics": [
+                  "coq",
+                  "coq-library",
+                  "foundations",
+                  "mathematics",
+                  "rocq",
+                  "rocq-library",
+                  "unimath"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1566,12 +2377,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An axiom-free formalization of category theory in Coq for personal study and practical work",
+                "homepage": null,
                 "id": 21490182,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-28T22:55:47Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:12:45Z",
+                "open_issues": 710,
                 "owner": "jwiegley",
                 "repo": "category-theory",
-                "stars": 806
+                "stars": 806,
+                "topics": [
+                  "cartesian",
+                  "cartesian-closed-category",
+                  "categories",
+                  "category",
+                  "category-theory",
+                  "comonads",
+                  "construction",
+                  "coq",
+                  "functor",
+                  "monad",
+                  "monoid",
+                  "profunctor",
+                  "profunctor-composition"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1582,12 +2412,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formal proof of the Four Color Theorem [maintainer=@ybertot]",
+                "homepage": null,
                 "id": 156423471,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T14:15:57Z",
+                "open_issues": 3,
                 "owner": "rocq-community",
                 "repo": "fourcolor",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "four-color-theorem",
+                  "mathcomp",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1598,12 +2439,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mathematical Components compliant Analysis Library",
+                "homepage": null,
                 "id": 112471761,
                 "language": "Rocq Prover",
-                "last_commit": "2026-08-28T02:50:21Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:10:14Z",
+                "open_issues": 185,
                 "owner": "math-comp",
                 "repo": "analysis",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "analysis",
+                  "coq",
+                  "mathcomp",
+                  "rocq",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1614,12 +2466,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A formalization of geometry in Coq based on Tarski's axiom system",
+                "homepage": null,
                 "id": 39133684,
                 "language": "Rocq Prover",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-11-17T23:46:35Z",
+                "open_issues": 6,
                 "owner": "GeoCoq",
                 "repo": "GeoCoq",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "archimedes",
+                  "continuity",
+                  "coq",
+                  "desargues",
+                  "elements",
+                  "euclid",
+                  "formalization",
+                  "geometry",
+                  "hilbert-axioms",
+                  "pappus",
+                  "parallel-postulate",
+                  "tarski-axiom"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1630,12 +2500,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]",
+                "homepage": "https://math-classes.github.io",
                 "id": 1743368,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-11T12:42:10Z",
+                "open_issues": 12,
                 "owner": "rocq-community",
                 "repo": "math-classes",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-library",
+                  "coq-platform",
+                  "mathematics",
+                  "typeclasses"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1646,12 +2528,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe,@Lysxia]",
+                "homepage": "http://c-corn.github.io/",
                 "id": 1928229,
                 "language": "Rocq Prover",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-11T12:18:44Z",
+                "open_issues": 10,
                 "owner": "rocq-community",
                 "repo": "corn",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "coq",
+                  "coq-ci",
+                  "coq-library",
+                  "coq-platform",
+                  "real-number"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1662,12 +2555,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monadic effects and equational reasoning in Rocq",
+                "homepage": null,
                 "id": 143658169,
                 "language": "Rocq Prover",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-07-21T03:40:03Z",
+                "open_issues": 29,
                 "owner": "affeldt-aist",
                 "repo": "monae",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "math-comp",
+                  "mathcomp",
+                  "monad-transformers",
+                  "monadic-effects",
+                  "monads",
+                  "nondeterminism",
+                  "probabilistic-programming",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1678,12 +2585,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rocq formalization of information theory and linear error-correcting codes",
+                "homepage": null,
                 "id": 114941836,
                 "language": "Rocq Prover",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-24T07:41:45Z",
+                "open_issues": 24,
                 "owner": "affeldt-aist",
                 "repo": "infotheo",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "convexity",
+                  "error-correcting-codes",
+                  "information-theory",
+                  "math-comp",
+                  "mathcomp",
+                  "probability",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1694,12 +2614,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finite sets, finite maps, multisets and generic sets",
+                "homepage": null,
                 "id": 35559890,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-07-17T13:06:53Z",
+                "open_issues": 16,
                 "owner": "math-comp",
                 "repo": "finmap",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "coq",
+                  "finite-sets",
+                  "mathcomp",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1710,12 +2640,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prime numbers for Coq",
+                "homepage": null,
                 "id": 108992562,
                 "language": "Rocq Prover",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-06-22T06:51:42Z",
+                "open_issues": 3,
                 "owner": "thery",
                 "repo": "coqprime",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "coq",
+                  "elliptic-curves",
+                  "pocklington-certificate",
+                  "prime-numbers",
+                  "theorem-proving"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1726,12 +2667,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Theory [maintainers=@chdoc,@damien-pous]",
+                "homepage": null,
                 "id": 250061406,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-05-06T11:44:14Z",
+                "open_issues": 3,
                 "owner": "rocq-community",
                 "repo": "graph-theory",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "coq",
+                  "docker-coq-action",
+                  "graph-theory",
+                  "mathcomp",
+                  "mathcomp-ci"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1742,12 +2694,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The formal proof of the Odd Order Theorem",
+                "homepage": null,
                 "id": 129917382,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-08-20T14:21:24Z",
+                "open_issues": 4,
                 "owner": "math-comp",
                 "repo": "odd-order",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "coq",
+                  "feit-thompson-theorem",
+                  "mathcomp",
+                  "odd-order-theorem",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1758,12 +2721,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of books from Bourbaki's Elements of Mathematics in Coq [maintainer=@thery]",
+                "homepage": "http://www-sop.inria.fr/marelle/gaia/",
                 "id": 286102273,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-21T13:55:22Z",
+                "open_issues": 1,
                 "owner": "rocq-community",
                 "repo": "gaia",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "bourbaki",
+                  "coq",
+                  "docker-coq-action",
+                  "mathcomp",
+                  "mathcomp-ci",
+                  "set-theory",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1774,12 +2750,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coqtail is a library of mathematical theorems and tools proved inside the Coq proof assistant. Results range mostly from arithmetic to real and complex analysis. [maintainer=@jmadiot]",
+                "homepage": "https://coqtail.github.io",
                 "id": 303356036,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-13T16:08:20Z",
+                "open_issues": 0,
                 "owner": "rocq-community",
                 "repo": "coqtail-math",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "complex-analysis",
+                  "coq",
+                  "real-analysis"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1790,12 +2775,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Completeness and Decidability of Modal Logic Calculi [maintainer=@chdoc]",
+                "homepage": "https://coq-community.org/comp-dec-modal/",
                 "id": 293567285,
                 "language": "Coq",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-11T14:44:54Z",
+                "open_issues": 1,
                 "owner": "rocq-community",
                 "repo": "comp-dec-modal",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "coq",
+                  "ctl",
+                  "mathcomp",
+                  "modal-logics",
+                  "pdl"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1806,12 +2802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formal proof in Coq of Puiseux's Theorem.",
+                "homepage": null,
                 "id": 89388517,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-08T17:12:52Z",
+                "open_issues": 0,
                 "owner": "roglo",
                 "repo": "puiseuxth",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -1829,12 +2830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptographic Primitive Code Generation by Fiat",
+                "homepage": "http://adam.chlipala.net/papers/FiatCryptoSP19/FiatCryptoSP19.pdf",
                 "id": 42269036,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:07:00Z",
+                "open_issues": 187,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
-                "stars": 839
+                "stars": 839,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1845,12 +2851,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language for high-assurance and high-speed cryptography",
+                "homepage": null,
                 "id": 78072136,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:34:31Z",
+                "open_issues": 139,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "compiler",
+                  "coq",
+                  "language"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1861,12 +2876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter",
+                "homepage": "http://jscert.org/",
                 "id": 16102974,
                 "language": "Coq",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-05T11:25:32Z",
+                "open_issues": 8,
                 "owner": "jscert",
                 "repo": "jscert",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1877,12 +2897,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework",
+                "homepage": null,
                 "id": 69508239,
                 "language": "Coq",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-12-08T14:05:25Z",
+                "open_issues": 15,
                 "owner": "uwplse",
                 "repo": "verdi-raft",
-                "stars": 200
+                "stars": 200,
+                "topics": [
+                  "consensus",
+                  "coq",
+                  "distributed-systems",
+                  "key-value",
+                  "proof",
+                  "raft",
+                  "verdi"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1893,12 +2926,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Verified Compiler for Gallina, Written in Gallina",
+                "homepage": null,
                 "id": 103416509,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-07-22T16:55:35Z",
+                "open_issues": 28,
                 "owner": "CertiRocq",
                 "repo": "certirocq",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "compiler",
+                  "coq",
+                  "formal-verification",
+                  "gallina",
+                  "rocq-prover"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1909,12 +2953,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verified hash-based AMQ structures in Coq",
+                "homepage": null,
                 "id": 189386550,
                 "language": "Coq",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-13T06:57:28Z",
+                "open_issues": 0,
                 "owner": "verse-lab",
                 "repo": "ceramist",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "amq",
+                  "bloom-filter",
+                  "coq",
+                  "coq-formalization",
+                  "counting-bloom-filter",
+                  "probability",
+                  "quotient-filter"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1925,12 +2982,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mechanisation of Wasm in Rocq",
+                "homepage": null,
                 "id": 273323921,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T22:09:02Z",
+                "open_issues": 7,
                 "owner": "WasmCert",
                 "repo": "WasmCert-Coq",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "coq",
+                  "rocq-prover",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1941,12 +3008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Specification in Coq",
+                "homepage": null,
                 "id": 138316792,
                 "language": "Rocq Prover",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T09:33:30Z",
+                "open_issues": 10,
                 "owner": "mit-plv",
                 "repo": "riscv-coq",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1957,12 +3029,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional Data Structures and Algorithms in SSReflect [maintainer=@clayrat]",
+                "homepage": null,
                 "id": 422654520,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2025-10-08T20:38:22Z",
+                "open_issues": 15,
                 "owner": "rocq-community",
                 "repo": "fav-ssr",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "2-3-tree",
+                  "avl-tree",
+                  "binomial-heap",
+                  "coq",
+                  "huffman-coding",
+                  "leftist-heap",
+                  "mathcomp",
+                  "quadtree",
+                  "redblack-tree",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1973,12 +3061,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable sort algorithms and their stability proofs in Rocq",
+                "homepage": "https://doi.org/10.48550/arXiv.2403.08173",
                 "id": 350921474,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-08-28T19:59:41Z",
+                "open_issues": 2,
                 "owner": "pi8027",
                 "repo": "stablesort",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "coq",
+                  "insertion-sort",
+                  "mathcomp",
+                  "mergesort",
+                  "parametricity",
+                  "rocq",
+                  "rocq-prover",
+                  "sorting-algorithms",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -1989,12 +3092,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq formalization of algorithms due to Tarjan and Kosaraju for finding strongly connected graph components using Mathematical Components and SSReflect [maintainers=@CohenCyril,@palmskog]",
+                "homepage": null,
                 "id": 84448746,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-17T13:49:31Z",
+                "open_issues": 0,
                 "owner": "rocq-community",
                 "repo": "tarjan",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "coq",
+                  "mathcomp",
+                  "mathcomp-ci",
+                  "ssreflect",
+                  "tarjan-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -2018,12 +3132,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+                "homepage": "https://rocq-prover.org",
                 "id": 1377159,
                 "language": "OCaml",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T16:46:51Z",
+                "open_issues": 2568,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5558
+                "stars": 5558,
+                "topics": [
+                  "coq",
+                  "dependent-types",
+                  "proof-assistant",
+                  "theorem-proving"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2034,12 +3158,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mathematical Components",
+                "homepage": "https://math-comp.github.io",
                 "id": 32018344,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:27:28Z",
+                "open_issues": 177,
                 "owner": "math-comp",
                 "repo": "math-comp",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "coq",
+                  "coq-formalization",
+                  "mathcomp",
+                  "rocq",
+                  "rocq-library",
+                  "rocq-prover",
+                  "rocq-prover-lang",
+                  "ssreflect"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2050,12 +3188,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation on goals of the Rocq-community organization, the shared contributing guide and code of conduct.",
+                "homepage": null,
                 "id": 114664048,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-31T14:02:25Z",
+                "open_issues": 40,
                 "owner": "rocq-community",
                 "repo": "manifesto",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "community-driven",
+                  "coq",
+                  "manifesto"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2066,12 +3213,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statements of famous theorems proven in Coq [maintainer=@jmadiot]",
+                "homepage": "https://madiot.fr/coq100/",
                 "id": 42695709,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-26T10:34:42Z",
+                "open_issues": 4,
                 "owner": "rocq-community",
                 "repo": "coq-100-theorems",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "coq",
+                  "theorems"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -2089,12 +3244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modeling and Proving in Computational Type Theory",
+                "homepage": null,
                 "id": 356820200,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-08-11T09:11:33Z",
+                "open_issues": 0,
                 "owner": "uds-psl",
                 "repo": "MPCTT",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2105,12 +3265,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Variations on Kirby & Paris' hydra battles and other entertaining math in Coq (collaborative, documented, includes  exercises) [maintainer=@Casteran]",
+                "homepage": "https://rocq-community.org/hydra-battles/doc/hydras.pdf",
                 "id": 305692436,
                 "language": "Coq",
+                "license": "MIT",
                 "last_commit": "2025-01-22T14:02:32Z",
+                "open_issues": 13,
                 "owner": "rocq-community",
                 "repo": "hydra-battles",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "coq",
+                  "coq-nix-toolbox",
+                  "discrete-mathematics",
+                  "docker-coq-action",
+                  "formal-proofs",
+                  "hydra-battles",
+                  "ordinal-notations",
+                  "primitive-recursive-functions"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -2128,12 +3302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software Foundations",
+                "homepage": null,
                 "id": 504199903,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-30T02:13:19Z",
+                "open_issues": 0,
                 "owner": "clarksmr",
                 "repo": "sf-lectures",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2144,12 +3323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq development for the course \"Mechanized semantics\", Collège de France, 2019-2020",
+                "homepage": null,
                 "id": 289205149,
                 "language": "Coq",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-04-09T15:01:06Z",
+                "open_issues": 0,
                 "owner": "xavierleroy",
                 "repo": "cdf-mech-sem",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2160,12 +3344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Companion Coq development for Xavier Leroy's 2021 lectures on program logics",
+                "homepage": null,
                 "id": 344063317,
                 "language": "Coq",
+                "license": null,
                 "last_commit": "2021-04-14T16:54:22Z",
+                "open_issues": 0,
                 "owner": "xavierleroy",
                 "repo": "cdf-program-logics",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2176,12 +3365,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 162704871,
                 "language": "Rocq Prover",
+                "license": "MIT",
                 "last_commit": "2026-01-31T12:38:54Z",
+                "open_issues": 0,
                 "owner": "thery",
                 "repo": "FlocqLecture",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "coq-formalization",
+                  "floating-point",
+                  "ieee-754",
+                  "lecture"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2192,12 +3391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 567658607,
                 "language": "Coq",
+                "license": null,
                 "last_commit": "2022-12-15T21:51:14Z",
+                "open_issues": 1,
                 "owner": "gares",
                 "repo": "math-comp-school-2022",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -2215,12 +3419,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tricks you wish the Coq manual told you [maintainer=@tchajed]",
+                "homepage": "http://coq-community.org/coq-tricks/",
                 "id": 74908815,
                 "language": "Coq",
+                "license": "MIT",
                 "last_commit": "2025-05-28T14:10:46Z",
+                "open_issues": 7,
                 "owner": "rocq-community",
                 "repo": "rocq-tricks",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "coq"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2231,12 +3442,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coq code and exercises from the Coq'Art book [maintainers=@ybertot,@Casteran]",
+                "homepage": "https://coq-community.org/coq-art/",
                 "id": 199299859,
                 "language": "Coq",
+                "license": "MIT",
                 "last_commit": "2025-02-15T16:10:19Z",
+                "open_issues": 2,
                 "owner": "rocq-community",
                 "repo": "coq-art",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "coq",
+                  "coq-art",
+                  "docker-coq-action",
+                  "exercises"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2247,12 +3468,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libraries demonstrating design patterns for programming and proving with canonical structures in Coq [maintainer=@anton-trunov]",
+                "homepage": "https://coq-community.org/lemma-overloading/",
                 "id": 57219848,
                 "language": "Rocq Prover",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-02T13:19:09Z",
+                "open_issues": 4,
                 "owner": "rocq-community",
                 "repo": "lemma-overloading",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "automation",
+                  "canonical-structures",
+                  "coq",
+                  "mathcomp",
+                  "paper-artifacts",
+                  "ssreflect",
+                  "typeclasses"
+                ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2263,12 +3497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "proof script associated to tutorial material",
+                "homepage": null,
                 "id": 177834820,
                 "language": "Rocq Prover",
+                "license": null,
                 "last_commit": "2026-07-01T15:19:49Z",
+                "open_issues": 1,
                 "owner": "math-comp",
                 "repo": "tutorial_material",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             }
@@ -2282,15 +3521,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:47.438Z",
+    "last_updated": "2026-08-29T04:43:45.862Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
+      "homepage": "https://rocq-community.org/awesome-coq",
       "id": 232886823,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-05T13:02:39Z",
+      "open_issues": 10,
       "owner": "rocq-community",
       "repo": "awesome-coq",
-      "stars": 394
+      "stars": 394,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "coq",
+        "resources"
+      ]
     },
     "original_repository_sha": "6520b5770bf5babc93f1dec730df3b6d34df0733",
     "enhanced_repository": "enhansome/enhansome-coq",
