@@ -392,7 +392,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-02T00:33:57Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "whonore",
                 "repo": "Coqtail",
                 "stars": 326,
@@ -2197,6 +2197,27 @@
             },
             {
               "node_type": "item",
+              "title": "Autosubst-ocaml",
+              "description": "Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 368416802,
+                "language": "Coq",
+                "license": "MIT",
+                "last_commit": "2026-07-02T21:13:27Z",
+                "open_issues": 9,
+                "owner": "uds-psl",
+                "repo": "autosubst-ocaml",
+                "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
+            },
+            {
+              "node_type": "item",
               "title": "Roosterize",
               "description": "Tool for suggesting lemma names in Coq projects.",
               "children": [],
@@ -2222,27 +2243,6 @@
                   "pytorch",
                   "serapi"
                 ]
-              },
-              "first_seen": "2026-08-28T23:31:47.438Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Autosubst-ocaml",
-              "description": "Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 368416802,
-                "language": "Coq",
-                "license": "MIT",
-                "last_commit": "2026-07-02T21:13:27Z",
-                "open_issues": 9,
-                "owner": "uds-psl",
-                "repo": "autosubst-ocaml",
-                "stars": 20,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
             },
@@ -2382,8 +2382,8 @@
                 "id": 21490182,
                 "language": "Rocq Prover",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T03:12:45Z",
-                "open_issues": 710,
+                "last_commit": "2026-08-29T16:29:31Z",
+                "open_issues": 704,
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 806,
@@ -3035,7 +3035,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2025-10-08T20:38:22Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "rocq-community",
                 "repo": "fav-ssr",
                 "stars": 50,
@@ -3138,7 +3138,7 @@
                 "language": "OCaml",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T16:46:51Z",
-                "open_issues": 2568,
+                "open_issues": 2571,
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5558,
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:45.862Z",
+    "last_updated": "2026-08-29T17:42:27.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
