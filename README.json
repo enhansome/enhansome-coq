@@ -1752,7 +1752,7 @@
                 "open_issues": 303,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 925,
+                "stars": 926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2332,7 +2332,7 @@
                 "open_issues": 134,
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
-                "stars": 1404,
+                "stars": 1405,
                 "topics": [
                   "homotopy-type-theory",
                   "type-theory",
@@ -2382,8 +2382,8 @@
                 "id": 21490182,
                 "language": "Rocq Prover",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T16:29:31Z",
-                "open_issues": 704,
+                "last_commit": "2026-08-30T02:03:30Z",
+                "open_issues": 700,
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 806,
@@ -2444,8 +2444,8 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T02:10:14Z",
-                "open_issues": 185,
+                "last_commit": "2026-08-30T13:02:29Z",
+                "open_issues": 184,
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 247,
@@ -2962,7 +2962,7 @@
                 "open_issues": 0,
                 "owner": "verse-lab",
                 "repo": "ceramist",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "amq",
                   "bloom-filter",
@@ -3138,7 +3138,7 @@
                 "language": "OCaml",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T16:46:51Z",
-                "open_issues": 2571,
+                "open_issues": 2574,
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5558,
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:42:27.373Z",
+    "last_updated": "2026-08-30T18:02:46.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
