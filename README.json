@@ -306,7 +306,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2026-09-05T20:20:59Z",
-                "open_issues": 170,
+                "open_issues": 169,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 461,
@@ -335,7 +335,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2026-09-05T20:20:59Z",
-                "open_issues": 170,
+                "open_issues": 169,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 461,
@@ -367,7 +367,7 @@
                 "open_issues": 103,
                 "owner": "cpitclaudel",
                 "repo": "company-coq",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "company-mode",
                   "coq",
@@ -583,7 +583,7 @@
                 "open_issues": 2,
                 "owner": "jwiegley",
                 "repo": "coq-haskell",
-                "stars": 172,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1422,7 +1422,7 @@
                 "language": "OCaml",
                 "license": "MIT",
                 "last_commit": "2026-08-31T20:26:17Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "unicoq",
                 "repo": "unicoq",
                 "stars": 60,
@@ -1800,7 +1800,7 @@
                 "open_issues": 39,
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 152,
                 "owner": "UniMath",
                 "repo": "UniMath",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "coq",
                   "coq-library",
@@ -2382,8 +2382,8 @@
                 "id": 21490182,
                 "language": "Rocq Prover",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T14:49:31Z",
-                "open_issues": 653,
+                "last_commit": "2026-09-08T12:28:26Z",
+                "open_issues": 651,
                 "owner": "jwiegley",
                 "repo": "category-theory",
                 "stars": 808,
@@ -2421,7 +2421,7 @@
                 "open_issues": 3,
                 "owner": "rocq-community",
                 "repo": "fourcolor",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "coq",
                   "coq-ci",
@@ -2444,11 +2444,11 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T20:41:08Z",
+                "last_commit": "2026-09-07T21:50:06Z",
                 "open_issues": 178,
                 "owner": "math-comp",
                 "repo": "analysis",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "analysis",
                   "coq",
@@ -2475,7 +2475,7 @@
                 "open_issues": 6,
                 "owner": "GeoCoq",
                 "repo": "GeoCoq",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "archimedes",
                   "continuity",
@@ -2835,7 +2835,7 @@
                 "id": 42269036,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T16:23:26Z",
+                "last_commit": "2026-09-08T04:53:02Z",
                 "open_issues": 213,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
@@ -3137,11 +3137,11 @@
                 "id": 1377159,
                 "language": "OCaml",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-07T14:01:04Z",
-                "open_issues": 2553,
+                "last_commit": "2026-09-08T17:15:32Z",
+                "open_issues": 2528,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5567,
+                "stars": 5566,
                 "topics": [
                   "coq",
                   "dependent-types",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:42:27.848Z",
+    "last_updated": "2026-09-08T17:53:30.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
