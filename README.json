@@ -306,7 +306,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2026-10-03T03:05:53Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -335,7 +335,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2026-10-03T03:05:53Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -1748,11 +1748,11 @@
                 "id": 119706050,
                 "language": "Sail",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T02:26:55Z",
-                "open_issues": 302,
+                "last_commit": "2026-10-03T14:19:00Z",
+                "open_issues": 301,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 946,
+                "stars": 947,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2856,8 +2856,8 @@
                 "id": 78072136,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:00:08Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-03T12:25:19Z",
+                "open_issues": 152,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 375,
@@ -3141,7 +3141,7 @@
                 "open_issues": 2521,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5596,
+                "stars": 5597,
                 "topics": [
                   "coq",
                   "dependent-types",
@@ -3451,7 +3451,7 @@
                 "open_issues": 2,
                 "owner": "rocq-community",
                 "repo": "coq-art",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "coq",
                   "coq-art",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:16.571Z",
+    "last_updated": "2026-10-03T17:54:42.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
