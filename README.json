@@ -305,8 +305,8 @@
                 "id": 196233996,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:36:48Z",
-                "open_issues": 174,
+                "last_commit": "2026-10-03T03:05:53Z",
+                "open_issues": 175,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -334,8 +334,8 @@
                 "id": 196233996,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:36:48Z",
-                "open_issues": 174,
+                "last_commit": "2026-10-03T03:05:53Z",
+                "open_issues": 175,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -417,7 +417,7 @@
                 "language": "OCaml",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-02T05:43:27Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "rocq-community",
                 "repo": "rocq-lsp",
                 "stars": 208,
@@ -1748,8 +1748,8 @@
                 "id": 119706050,
                 "language": "Sail",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:30:36Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-03T02:26:55Z",
+                "open_issues": 302,
                 "owner": "rems-project",
                 "repo": "sail",
                 "stars": 946,
@@ -2444,7 +2444,7 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T13:18:30Z",
+                "last_commit": "2026-10-02T22:31:33Z",
                 "open_issues": 179,
                 "owner": "math-comp",
                 "repo": "analysis",
@@ -2857,7 +2857,7 @@
                 "language": "Rocq Prover",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:00:08Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 375,
@@ -3128,7 +3128,7 @@
             {
               "node_type": "item",
               "title": "Official Coq wiki",
-              "description": null,
+              "description": "rocq-prover/rocq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3154,7 +3154,7 @@
             {
               "node_type": "item",
               "title": "Mathematical Components wiki",
-              "description": null,
+              "description": "math-comp/math-comp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3184,7 +3184,7 @@
             {
               "node_type": "item",
               "title": "Coq-community package maintenance project",
-              "description": null,
+              "description": "rocq-community/manifesto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3209,7 +3209,7 @@
             {
               "node_type": "item",
               "title": "100 famous theorems proved using Coq",
-              "description": null,
+              "description": "rocq-community/coq-100-theorems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:14:09.216Z",
+    "last_updated": "2026-10-03T04:40:16.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
