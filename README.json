@@ -305,8 +305,8 @@
                 "id": 196233996,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:17:04Z",
-                "open_issues": 181,
+                "last_commit": "2026-10-10T06:28:10Z",
+                "open_issues": 180,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -334,8 +334,8 @@
                 "id": 196233996,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:17:04Z",
-                "open_issues": 181,
+                "last_commit": "2026-10-10T06:28:10Z",
+                "open_issues": 180,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
                 "stars": 462,
@@ -654,7 +654,7 @@
                 "open_issues": 4,
                 "owner": "plclub",
                 "repo": "metalib",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 98,
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "coq",
                   "coq-formalization",
@@ -1749,10 +1749,10 @@
                 "language": "Sail",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:56:32Z",
-                "open_issues": 302,
+                "open_issues": 304,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 953,
+                "stars": 955,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1800,7 +1800,7 @@
                 "open_issues": 42,
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2444,7 +2444,7 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T03:06:01Z",
+                "last_commit": "2026-10-09T22:48:38Z",
                 "open_issues": 183,
                 "owner": "math-comp",
                 "repo": "analysis",
@@ -2835,11 +2835,11 @@
                 "id": 42269036,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T17:13:05Z",
-                "open_issues": 214,
+                "last_commit": "2026-10-09T22:24:31Z",
+                "open_issues": 213,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
-                "stars": 841,
+                "stars": 842,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2856,11 +2856,11 @@
                 "id": 78072136,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-09T19:22:00Z",
+                "last_commit": "2026-10-09T19:53:45Z",
                 "open_issues": 160,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "compiler",
                   "coq",
@@ -3138,10 +3138,10 @@
                 "language": "OCaml",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-09T15:11:41Z",
-                "open_issues": 2529,
+                "open_issues": 2530,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5598,
+                "stars": 5599,
                 "topics": [
                   "coq",
                   "dependent-types",
@@ -3311,7 +3311,7 @@
                 "open_issues": 0,
                 "owner": "clarksmr",
                 "repo": "sf-lectures",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:30:59.032Z",
+    "last_updated": "2026-10-10T18:31:29.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
