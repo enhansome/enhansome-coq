@@ -1026,7 +1026,7 @@
                 "open_issues": 5,
                 "owner": "CertiGraph",
                 "repo": "CertiGraph",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "compcert",
                   "coq",
@@ -1112,7 +1112,7 @@
                 "open_issues": 68,
                 "owner": "rocq-prover",
                 "repo": "platform",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1749,7 +1749,7 @@
                 "language": "Sail",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:56:32Z",
-                "open_issues": 304,
+                "open_issues": 305,
                 "owner": "rems-project",
                 "repo": "sail",
                 "stars": 955,
@@ -2444,7 +2444,7 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T22:48:38Z",
+                "last_commit": "2026-10-10T21:34:14Z",
                 "open_issues": 183,
                 "owner": "math-comp",
                 "repo": "analysis",
@@ -2471,7 +2471,7 @@
                 "id": 39133684,
                 "language": "Rocq Prover",
                 "license": "LGPL-3.0",
-                "last_commit": "2025-11-17T23:46:35Z",
+                "last_commit": "2026-10-11T15:02:06Z",
                 "open_issues": 6,
                 "owner": "GeoCoq",
                 "repo": "GeoCoq",
@@ -2839,7 +2839,7 @@
                 "open_issues": 213,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
-                "stars": 842,
+                "stars": 844,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2860,7 +2860,7 @@
                 "open_issues": 160,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "compiler",
                   "coq",
@@ -3138,7 +3138,7 @@
                 "language": "OCaml",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-09T15:11:41Z",
-                "open_issues": 2530,
+                "open_issues": 2532,
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5599,
@@ -3194,7 +3194,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-31T14:02:25Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "rocq-community",
                 "repo": "manifesto",
                 "stars": 74,
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:31:29.963Z",
+    "last_updated": "2026-10-11T18:49:20.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
