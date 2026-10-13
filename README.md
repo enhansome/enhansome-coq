@@ -36,7 +36,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 * [Verdi](https://github.com/uwplse/verdi) ⭐ 627 | 🐛 5 | 🌐 Rocq Prover | 📅 2026-01-27 - Framework for formally verifying distributed systems implementations.
 * [Fiat](https://github.com/mit-plv/fiat) ⭐ 157 | 🐛 1 | 🌐 Rocq Prover | 📅 2026-08-24 - Mostly automated synthesis of correct-by-construction programs.
 * [ConCert](https://github.com/AU-COBRA/ConCert) ⭐ 129 | 🐛 8 | 🌐 Rocq Prover | 📅 2026-08-25 - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
-* [SSProve](https://github.com/SSProve/ssprove) ⭐ 90 | 🐛 17 | 🌐 Rocq Prover | 📅 2026-07-23 - Framework for modular cryptographic proofs based on the Mathematical Components library.
+* [SSProve](https://github.com/SSProve/ssprove) ⭐ 90 | 🐛 16 | 🌐 Rocq Prover | 📅 2026-07-23 - Framework for modular cryptographic proofs based on the Mathematical Components library.
 * [Hoare Type Theory](https://github.com/imdea-software/htt/) ⭐ 88 | 🐛 0 | 🌐 Rocq Prover | 📅 2026-08-26 - A shallow embedding of sequential separation logic formulated as a type theory.
 * [CoqEAL](https://github.com/CoqEAL/CoqEAL) ⭐ 74 | 🐛 8 | 🌐 Rocq Prover | 📅 2026-08-25 - Framework to ease change of data representations in proofs.
 * [Q\*cert](https://github.com/querycert/qcert) ⭐ 60 | 🐛 32 | 🌐 Coq | 📅 2024-07-17 - Platform for implementing and verifying query compilers.
@@ -50,15 +50,15 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### User Interfaces
 
 * [jsCoq](https://github.com/jscoq/jscoq) ⭐ 548 | 🐛 79 | 🌐 TypeScript | 📅 2026-06-15 - Port of Coq to JavaScript, which enables running Coq projects in a browser.
-* [VsCoq](https://github.com/coq-community/vscoq) ⭐ 462 | 🐛 181 | 🌐 Rocq Prover | 📅 2026-10-12 - Language server and extension for the Visual Studio Code and VSCodium editors.
-* [VsCoq Legacy](https://github.com/coq-community/vscoq/tree/vscoq1) ⭐ 462 | 🐛 181 | 🌐 Rocq Prover | 📅 2026-10-12 - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+* [VsCoq](https://github.com/coq-community/vscoq) ⭐ 462 | 🐛 186 | 🌐 Rocq Prover | 📅 2026-10-13 - Language server and extension for the Visual Studio Code and VSCodium editors.
+* [VsCoq Legacy](https://github.com/coq-community/vscoq/tree/vscoq1) ⭐ 462 | 🐛 186 | 🌐 Rocq Prover | 📅 2026-10-13 - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 * [Company-Coq](https://github.com/cpitclaudel/company-coq) ⭐ 360 | 🐛 103 | 🌐 Emacs Lisp | 📅 2026-02-23 - IDE extensions for Proof General's Coq mode.
 * [Coqtail](https://github.com/whonore/Coqtail) ⭐ 326 | 🐛 40 | 🌐 Python | 📅 2026-10-11 - Interface for Coq based on the Vim text editor.
 * [Coq LSP](https://github.com/ejgallego/coq-lsp) ⭐ 209 | 🐛 152 | 🌐 OCaml | 📅 2026-10-02 - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
 * [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) ⭐ 95 | 🐛 16 | 🌐 Python | 📅 2024-09-03 - Coq support for the Jupyter Notebook web environment.
 * [Waterproof editor](https://github.com/impermeable/waterproof) ⚠️ Archived - Educational environment for writing mathematical proofs in interactive notebooks.
 * [opam-switch-mode](https://github.com/ProofGeneral/opam-switch-mode) ⭐ 9 | 🐛 3 | 🌐 Emacs Lisp | 📅 2023-08-02 - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
-* [Tree Sitter Rocq](https://github.com/lamg/tree-sitter-rocq) ⭐ 5 | 🐛 0 | 🌐 Rocq Prover | 📅 2025-08-17 - Partial Rocq tree-sitter grammar useful for syntax highlighting in text editors like [Helix](https://github.com/helix-editor/helix) ⭐ 46,563 | 🐛 1,732 | 🌐 Rust | 📅 2026-09-29, but not recommended for full parsing of Rocq code.
+* [Tree Sitter Rocq](https://github.com/lamg/tree-sitter-rocq) ⭐ 5 | 🐛 0 | 🌐 Rocq Prover | 📅 2025-08-17 - Partial Rocq tree-sitter grammar useful for syntax highlighting in text editors like [Helix](https://github.com/helix-editor/helix) ⭐ 46,575 | 🐛 1,733 | 🌐 Rust | 📅 2026-09-29, but not recommended for full parsing of Rocq code.
 * [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
 * [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
 
@@ -94,7 +94,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Package and Build Management
 
 * [Coq Platform](https://github.com/coq/platform) ⭐ 247 | 🐛 67 | 🌐 Shell | 📅 2026-10-12 - Curated collection of packages to support Coq use in industry, education, and research.
-* [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) ⭐ 57 | 🐛 43 | 🌐 Nix | 📅 2026-10-05 - Nix helper scripts to automate local builds and continuous integration for Coq.
+* [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) ⭐ 57 | 🐛 46 | 🌐 Nix | 📅 2026-10-13 - Nix helper scripts to automate local builds and continuous integration for Coq.
 * [Docker-Coq](https://github.com/coq-community/docker-coq) ⭐ 40 | 🐛 6 | 🌐 Shell | 📅 2025-05-13 - Docker images for many versions of Coq.
 * [coq-community Templates](https://github.com/coq-community/templates) ⭐ 18 | 🐛 26 | 🌐 Mustache | 📅 2026-03-19 - Templates for generating configuration files for Coq projects.
 * [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) ⭐ 6 | 🐛 5 | 🌐 Dockerfile | 📅 2026-08-20 - Docker images for many combinations of versions of Coq and the Mathematical Components library.
@@ -109,13 +109,13 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Plugins
 
-* [MetaCoq](https://github.com/MetaCoq/metacoq) ⭐ 559 | 🐛 98 | 🌐 Rocq Prover | 📅 2026-10-09 - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+* [MetaCoq](https://github.com/MetaCoq/metacoq) ⭐ 560 | 🐛 98 | 🌐 Rocq Prover | 📅 2026-10-13 - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
 * [QuickChick](https://github.com/QuickChick/QuickChick) ⭐ 293 | 🐛 92 | 🌐 Rocq Prover | 📅 2026-10-02 - Plugin for randomized property-based testing.
 * [CoqHammer](https://github.com/lukaszcz/coqhammer) ⭐ 249 | 🐛 9 | 🌐 OCaml | 📅 2026-08-31 - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
 * [Equations](https://github.com/mattam82/Coq-Equations) ⭐ 236 | 🐛 100 | 🌐 Rocq Prover | 📅 2026-09-28 - Function definition package for Coq.
-* [Coq-Elpi](https://github.com/LPCIC/coq-elpi) ⭐ 195 | 🐛 138 | 🌐 OCaml | 📅 2026-10-12 - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
+* [Coq-Elpi](https://github.com/LPCIC/coq-elpi) ⭐ 195 | 🐛 137 | 🌐 OCaml | 📅 2026-10-13 - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
 * [SMTCoq](https://github.com/smtcoq/smtcoq) ⭐ 170 | 🐛 34 | 🌐 OCaml | 📅 2026-10-01 - Tool that checks proof witnesses coming from external SAT and SMT solvers.
-* [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) ⭐ 104 | 🐛 126 | 🌐 Rocq Prover | 📅 2026-07-24 - Collection of commands for declaring Coq hierarchies based on packed classes.
+* [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) ⭐ 104 | 🐛 127 | 🌐 Rocq Prover | 📅 2026-07-24 - Collection of commands for declaring Coq hierarchies based on packed classes.
 * [Unicoq](https://github.com/unicoq/unicoq) ⭐ 60 | 🐛 7 | 🌐 OCaml | 📅 2026-09-14 - Plugin that replaces the existing unification algorithm with an enhanced one.
 * [Mtac2](https://github.com/Mtac2/Mtac2) ⭐ 57 | 🐛 70 | 🌐 Rocq Prover | 📅 2026-09-28 - Plugin adding typed tactics for backward reasoning.
 * [Waterproof proof language](https://github.com/impermeable/coq-waterproof) ⭐ 52 | 🐛 25 | 🌐 Rocq Prover | 📅 2026-10-12 - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
@@ -139,7 +139,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Tools
 
-* [Sail](https://github.com/rems-project/sail) ⭐ 956 | 🐛 306 | 🌐 Sail | 📅 2026-10-09 - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
+* [Sail](https://github.com/rems-project/sail) ⭐ 956 | 🐛 307 | 🌐 Sail | 📅 2026-10-09 - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
 * [Cosette](https://github.com/uwdb/Cosette) ⭐ 687 | 🐛 27 | 🌐 Lean | 📅 2024-12-18 - Automated solver for reasoning about SQL query equivalences.
 * [Ott](https://github.com/ott-lang/ott) ⭐ 425 | 🐛 42 | 🌐 OCaml | 📅 2026-09-16 - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 * [Alectryon](https://github.com/cpitclaudel/alectryon) ⭐ 325 | 🐛 18 | 🌐 HTML | 📅 2026-06-02 - Collection of tools for writing technical documents that mix Coq code and prose.
@@ -174,7 +174,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 * [UniMath](https://github.com/UniMath/UniMath) ⭐ 1,017 | 🐛 149 | 🌐 Rocq Prover | 📅 2026-10-11 - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 * [Category Theory in Coq](https://github.com/jwiegley/category-theory) ⭐ 815 | 🐛 602 | 🌐 Rocq Prover | 📅 2026-10-08 - Axiom-free formalization of category theory.
 * [Four Color Theorem](https://github.com/coq-community/fourcolor) ⭐ 252 | 🐛 3 | 🌐 Rocq Prover | 📅 2026-08-20 - Formal proof of the Four Color Theorem, a landmark result of graph theory.
-* [Analysis](https://github.com/math-comp/analysis) ⭐ 247 | 🐛 183 | 🌐 Rocq Prover | 📅 2026-10-11 - Library for classical real analysis compatible with Mathematical Components.
+* [Analysis](https://github.com/math-comp/analysis) ⭐ 247 | 🐛 183 | 🌐 Rocq Prover | 📅 2026-10-13 - Library for classical real analysis compatible with Mathematical Components.
 * [GeoCoq](https://github.com/GeoCoq/GeoCoq) ⭐ 210 | 🐛 6 | 🌐 Rocq Prover | 📅 2026-10-11 - Formalization of geometry based on Tarski's axiom system.
 * [Math Classes](https://github.com/coq-community/math-classes) ⭐ 169 | 🐛 12 | 🌐 Rocq Prover | 📅 2026-07-11 - Abstract interfaces for mathematical structures based on type classes.
 * [CoRN](https://github.com/coq-community/corn) ⭐ 116 | 🐛 10 | 🌐 Rocq Prover | 📅 2026-07-11 - Library of constructive real analysis and algebra.
@@ -187,19 +187,19 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 * [Gaia](https://github.com/coq-community/gaia) ⭐ 30 | 🐛 1 | 🌐 Rocq Prover | 📅 2026-07-21 - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 * [Coqtail Math](https://github.com/coq-community/coqtail-math) ⭐ 16 | 🐛 0 | 🌐 Rocq Prover | 📅 2026-04-13 - Library of mathematical results ranging from arithmetic to real and complex analysis.
 * [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) ⭐ 12 | 🐛 1 | 🌐 Coq | 📅 2024-08-11 - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-* [Puiseuxth](https://github.com/roglo/puiseuxth) ⭐ 4 | 🐛 0 | 🌐 Rocq Prover | 📅 2026-02-08 - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
+* [Puiseuxth](https://github.com/roglo/puiseuxth) ⭐ 4 | 🐛 0 | 🌐 Rocq Prover | 📅 2026-10-13 - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
 * [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 * [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
 ### Verified Software
 
-* [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) ⭐ 844 | 🐛 214 | 🌐 Rocq Prover | 📅 2026-10-09 - Cryptographic primitive code generation.
-* [Jasmin](https://github.com/jasmin-lang/jasmin) ⭐ 381 | 🐛 156 | 🌐 Rocq Prover | 📅 2026-10-12 - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+* [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) ⭐ 844 | 🐛 212 | 🌐 Rocq Prover | 📅 2026-10-13 - Cryptographic primitive code generation.
+* [Jasmin](https://github.com/jasmin-lang/jasmin) ⭐ 381 | 🐛 158 | 🌐 Rocq Prover | 📅 2026-10-13 - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 * [JSCert](https://github.com/jscert/jscert) ⭐ 207 | 🐛 8 | 🌐 Coq | 📅 2024-02-05 - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
 * [Verdi Raft](https://github.com/uwplse/verdi-raft) ⭐ 203 | 🐛 15 | 🌐 Coq | 📅 2023-12-08 - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 * [CertiCoq](https://github.com/CertiCoq/certicoq) ⭐ 180 | 🐛 30 | 🌐 Rocq Prover | 📅 2026-09-04 - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
 * [Ceramist](https://github.com/certichain/ceramist) ⭐ 127 | 🐛 0 | 🌐 Coq | 📅 2020-04-13 - Verified hash-based approximate membership structures such as Bloom filters.
-* [WasmCert-Coq](https://github.com/WasmCert/WasmCert-Coq/) ⭐ 127 | 🐛 6 | 🌐 Rocq Prover | 📅 2026-10-12 - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
+* [WasmCert-Coq](https://github.com/WasmCert/WasmCert-Coq/) ⭐ 127 | 🐛 6 | 🌐 Rocq Prover | 📅 2026-10-13 - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
 * [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) ⭐ 119 | 🐛 11 | 🌐 Rocq Prover | 📅 2026-09-18 - Definition of the RISC-V processor instruction set architecture and extensions.
 * [Functional Algorithms Verified in SSReflect](https://github.com/clayrat/fav-ssr) ⭐ 50 | 🐛 14 | 🌐 Rocq Prover | 📅 2025-10-08 - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 * [Stable sort algorithms in Coq](https://github.com/pi8027/stablesort) ⭐ 26 | 🐛 2 | 🌐 Rocq Prover | 📅 2026-09-18 - Generic and modular proofs of correctness, including stability, of mergesort functions.
@@ -214,8 +214,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Community
 
-* [Official Coq wiki](https://github.com/coq/coq/wiki) ⭐ 5,600 | 🐛 2,532 | 🌐 OCaml | 📅 2026-10-09
-* [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) ⭐ 700 | 🐛 183 | 🌐 Rocq Prover | 📅 2026-09-28
+* [Official Coq wiki](https://github.com/coq/coq/wiki) ⭐ 5,601 | 🐛 2,533 | 🌐 OCaml | 📅 2026-10-13
+* [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) ⭐ 701 | 🐛 183 | 🌐 Rocq Prover | 📅 2026-09-28
 * [Coq-community package maintenance project](https://github.com/coq-community/manifesto) ⭐ 74 | 🐛 41 | 📅 2025-03-31
 * [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems) ⭐ 62 | 🐛 4 | 🌐 HTML | 📅 2025-11-26
 * [Official Coq website](https://coq.inria.fr)
@@ -292,4 +292,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
