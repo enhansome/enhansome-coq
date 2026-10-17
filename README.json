@@ -309,7 +309,7 @@
                 "open_issues": 187,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
-                "stars": 462,
+                "stars": 461,
                 "topics": [
                   "coq",
                   "editor",
@@ -338,7 +338,7 @@
                 "open_issues": 187,
                 "owner": "rocq-prover",
                 "repo": "vsrocq",
-                "stars": 462,
+                "stars": 461,
                 "topics": [
                   "coq",
                   "editor",
@@ -1245,7 +1245,7 @@
                 "open_issues": 98,
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 562,
+                "stars": 561,
                 "topics": [
                   "coq",
                   "coq-formalization",
@@ -1352,7 +1352,7 @@
                 "open_issues": 137,
                 "owner": "LPCIC",
                 "repo": "coq-elpi",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "coq",
                   "extension-language",
@@ -1752,7 +1752,7 @@
                 "open_issues": 301,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 957,
+                "stars": 959,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2304,7 +2304,7 @@
                 "open_issues": 11,
                 "owner": "affeldt-aist",
                 "repo": "rocqnavi",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2332,7 +2332,7 @@
                 "open_issues": 148,
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
-                "stars": 1405,
+                "stars": 1406,
                 "topics": [
                   "homotopy-type-theory",
                   "type-theory",
@@ -2444,11 +2444,11 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T16:45:27Z",
+                "last_commit": "2026-10-16T21:06:27Z",
                 "open_issues": 173,
                 "owner": "math-comp",
                 "repo": "analysis",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "analysis",
                   "coq",
@@ -2836,10 +2836,10 @@
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T08:57:47Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
-                "stars": 844,
+                "stars": 845,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2860,7 +2860,7 @@
                 "open_issues": 159,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
-                "stars": 381,
+                "stars": 382,
                 "topics": [
                   "compiler",
                   "coq",
@@ -3137,8 +3137,8 @@
                 "id": 1377159,
                 "language": "OCaml",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-16T14:21:48Z",
-                "open_issues": 2511,
+                "last_commit": "2026-10-17T12:27:28Z",
+                "open_issues": 2509,
                 "owner": "rocq-prover",
                 "repo": "rocq",
                 "stars": 5606,
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:59:06.347Z",
+    "last_updated": "2026-10-17T17:06:01.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
