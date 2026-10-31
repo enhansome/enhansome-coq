@@ -395,7 +395,7 @@
                 "open_issues": 39,
                 "owner": "whonore",
                 "repo": "Coqtail",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "coq",
                   "proof-assistant",
@@ -558,8 +558,8 @@
                 "id": 138210180,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:52:00Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-31T10:18:31Z",
+                "open_issues": 31,
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
                 "stars": 261,
@@ -1146,7 +1146,7 @@
                 "language": "Shell",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-05-13T16:51:54Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "rocq-community",
                 "repo": "docker-coq",
                 "stars": 40,
@@ -1233,8 +1233,8 @@
                 "id": 107535901,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:13:38Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-31T16:01:32Z",
+                "open_issues": 99,
                 "owner": "MetaRocq",
                 "repo": "metarocq",
                 "stars": 565,
@@ -1263,7 +1263,7 @@
                 "open_issues": 93,
                 "owner": "QuickChick",
                 "repo": "QuickChick",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "coq",
                   "testing"
@@ -1534,7 +1534,7 @@
                 "language": "Rocq Prover",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-30T18:23:18Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "damien-pous",
                 "repo": "coinduction",
                 "stars": 28,
@@ -2436,8 +2436,8 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T23:15:36Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-30T22:51:06Z",
+                "open_issues": 175,
                 "owner": "math-comp",
                 "repo": "analysis",
                 "stars": 246,
@@ -2525,8 +2525,8 @@
                 "id": 1928229,
                 "language": "Rocq Prover",
                 "license": "GPL-2.0",
-                "last_commit": "2026-07-11T12:18:44Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-30T21:21:20Z",
+                "open_issues": 9,
                 "owner": "rocq-community",
                 "repo": "corn",
                 "stars": 116,
@@ -2848,7 +2848,7 @@
                 "id": 78072136,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-30T17:29:25Z",
+                "last_commit": "2026-10-31T12:37:56Z",
                 "open_issues": 166,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
@@ -2923,8 +2923,8 @@
                 "id": 103416509,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-10-25T13:41:38Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-31T17:38:07Z",
+                "open_issues": 28,
                 "owner": "CertiRocq",
                 "repo": "certirocq",
                 "stars": 183,
@@ -2934,6 +2934,32 @@
                   "formal-verification",
                   "gallina",
                   "rocq-prover"
+                ]
+              },
+              "first_seen": "2026-08-28T23:31:47.438Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WasmCert-Coq",
+              "description": "Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A mechanisation of Wasm in Rocq",
+                "homepage": null,
+                "id": 273323921,
+                "language": "Rocq Prover",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-13T09:41:52Z",
+                "open_issues": 6,
+                "owner": "WasmCert",
+                "repo": "WasmCert-Coq",
+                "stars": 128,
+                "topics": [
+                  "coq",
+                  "rocq-prover",
+                  "wasm",
+                  "webassembly"
                 ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2963,32 +2989,6 @@
                   "counting-bloom-filter",
                   "probability",
                   "quotient-filter"
-                ]
-              },
-              "first_seen": "2026-08-28T23:31:47.438Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WasmCert-Coq",
-              "description": "Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A mechanisation of Wasm in Rocq",
-                "homepage": null,
-                "id": 273323921,
-                "language": "Rocq Prover",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-13T09:41:52Z",
-                "open_issues": 6,
-                "owner": "WasmCert",
-                "repo": "WasmCert-Coq",
-                "stars": 127,
-                "topics": [
-                  "coq",
-                  "rocq-prover",
-                  "wasm",
-                  "webassembly"
                 ]
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -3129,11 +3129,11 @@
                 "id": 1377159,
                 "language": "OCaml",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-30T16:50:28Z",
-                "open_issues": 2513,
+                "last_commit": "2026-10-31T15:29:20Z",
+                "open_issues": 2336,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5648,
+                "stars": 5651,
                 "topics": [
                   "coq",
                   "dependent-types",
@@ -3513,7 +3513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:17:20.342Z",
+    "last_updated": "2026-10-31T18:29:22.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
