@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "uwplse",
                 "repo": "verdi",
-                "stars": 632,
+                "stars": 631,
                 "topics": [
                   "coq",
                   "coq-library",
@@ -69,7 +69,7 @@
                 "open_issues": 9,
                 "owner": "AU-COBRA",
                 "repo": "ConCert",
-                "stars": 130,
+                "stars": 128,
                 "topics": [
                   "blockchain",
                   "coq",
@@ -95,7 +95,7 @@
                 "open_issues": 16,
                 "owner": "SSProve",
                 "repo": "ssprove",
-                "stars": 92,
+                "stars": 90,
                 "topics": [
                   "coq-formalization",
                   "coq-library",
@@ -123,7 +123,7 @@
                 "open_issues": 0,
                 "owner": "imdea-software",
                 "repo": "htt",
-                "stars": 90,
+                "stars": 89,
                 "topics": [
                   "coq",
                   "hoare-logic",
@@ -151,7 +151,7 @@
                 "open_issues": 8,
                 "owner": "rocq-community",
                 "repo": "coqeal",
-                "stars": 75,
+                "stars": 74,
                 "topics": [
                   "coq",
                   "coq-ci",
@@ -562,7 +562,7 @@
                 "open_issues": 29,
                 "owner": "DeepSpec",
                 "repo": "InteractionTrees",
-                "stars": 263,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -604,7 +604,7 @@
                 "open_issues": 19,
                 "owner": "uds-psl",
                 "repo": "coq-library-undecidability",
-                "stars": 146,
+                "stars": 145,
                 "topics": [
                   "coq"
                 ]
@@ -654,7 +654,7 @@
                 "open_issues": 4,
                 "owner": "plclub",
                 "repo": "metalib",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1237,7 +1237,7 @@
                 "open_issues": 101,
                 "owner": "MetaRocq",
                 "repo": "metarocq",
-                "stars": 572,
+                "stars": 571,
                 "topics": [
                   "coq",
                   "coq-formalization",
@@ -1392,7 +1392,7 @@
                 "open_issues": 128,
                 "owner": "math-comp",
                 "repo": "hierarchy-builder",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "coq",
                   "elpi",
@@ -1505,7 +1505,7 @@
                 "language": "OCaml",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T19:25:56Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "rocq-community",
                 "repo": "aac-tactics",
                 "stars": 36,
@@ -1744,7 +1744,7 @@
                 "open_issues": 314,
                 "owner": "rems-project",
                 "repo": "sail",
-                "stars": 972,
+                "stars": 973,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1792,7 +1792,7 @@
                 "open_issues": 43,
                 "owner": "ott-lang",
                 "repo": "ott",
-                "stars": 431,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -1917,7 +1917,7 @@
                 "open_issues": 64,
                 "owner": "plclub",
                 "repo": "hs-to-rocq",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "coq",
                   "haskell"
@@ -1941,7 +1941,7 @@
                 "open_issues": 25,
                 "owner": "ejgallego",
                 "repo": "pycoq",
-                "stars": 58,
+                "stars": 57,
                 "topics": [
                   "coq",
                   "machine-learning",
@@ -2320,8 +2320,8 @@
                 "id": 1529601,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T00:39:56Z",
-                "open_issues": 138,
+                "last_commit": "2026-11-15T07:15:08Z",
+                "open_issues": 137,
                 "owner": "HoTT",
                 "repo": "Coq-HoTT",
                 "stars": 1405,
@@ -2349,7 +2349,7 @@
                 "open_issues": 149,
                 "owner": "UniMath",
                 "repo": "UniMath",
-                "stars": 1020,
+                "stars": 1019,
                 "topics": [
                   "coq",
                   "coq-library",
@@ -2375,10 +2375,10 @@
                 "language": "Rocq Prover",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-11T08:10:13Z",
-                "open_issues": 610,
+                "open_issues": 611,
                 "owner": "jwiegley",
                 "repo": "category-theory",
-                "stars": 818,
+                "stars": 816,
                 "topics": [
                   "cartesian",
                   "cartesian-closed-category",
@@ -2436,11 +2436,11 @@
                 "id": 112471761,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T17:25:06Z",
+                "last_commit": "2026-11-14T22:38:55Z",
                 "open_issues": 179,
                 "owner": "math-comp",
                 "repo": "analysis",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "analysis",
                   "coq",
@@ -2501,7 +2501,7 @@
                 "open_issues": 12,
                 "owner": "rocq-community",
                 "repo": "math-classes",
-                "stars": 170,
+                "stars": 167,
                 "topics": [
                   "coq",
                   "coq-ci",
@@ -2831,7 +2831,7 @@
                 "open_issues": 216,
                 "owner": "mit-plv",
                 "repo": "fiat-crypto",
-                "stars": 850,
+                "stars": 849,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -2848,8 +2848,8 @@
                 "id": 78072136,
                 "language": "Rocq Prover",
                 "license": "MIT",
-                "last_commit": "2026-11-14T15:35:43Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-15T10:01:33Z",
+                "open_issues": 157,
                 "owner": "jasmin-lang",
                 "repo": "jasmin",
                 "stars": 392,
@@ -2927,7 +2927,7 @@
                 "open_issues": 25,
                 "owner": "CertiRocq",
                 "repo": "certirocq",
-                "stars": 187,
+                "stars": 186,
                 "topics": [
                   "compiler",
                   "coq",
@@ -2980,7 +2980,7 @@
                 "open_issues": 0,
                 "owner": "verse-lab",
                 "repo": "ceramist",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "amq",
                   "bloom-filter",
@@ -3009,7 +3009,7 @@
                 "open_issues": 13,
                 "owner": "mit-plv",
                 "repo": "riscv-coq",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:47.438Z"
@@ -3129,11 +3129,11 @@
                 "id": 1377159,
                 "language": "OCaml",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-14T15:18:15Z",
-                "open_issues": 2108,
+                "last_commit": "2026-11-15T15:46:37Z",
+                "open_issues": 2102,
                 "owner": "rocq-prover",
                 "repo": "rocq",
-                "stars": 5668,
+                "stars": 5670,
                 "topics": [
                   "coq",
                   "dependent-types",
@@ -3155,11 +3155,11 @@
                 "id": 32018344,
                 "language": "Rocq Prover",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T14:02:42Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-15T08:15:52Z",
+                "open_issues": 179,
                 "owner": "math-comp",
                 "repo": "math-comp",
-                "stars": 712,
+                "stars": 710,
                 "topics": [
                   "coq",
                   "coq-formalization",
@@ -3420,7 +3420,7 @@
                 "open_issues": 7,
                 "owner": "rocq-community",
                 "repo": "rocq-tricks",
-                "stars": 557,
+                "stars": 556,
                 "topics": [
                   "coq"
                 ]
@@ -3513,7 +3513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:06:36.705Z",
+    "last_updated": "2026-11-15T19:44:35.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]",
